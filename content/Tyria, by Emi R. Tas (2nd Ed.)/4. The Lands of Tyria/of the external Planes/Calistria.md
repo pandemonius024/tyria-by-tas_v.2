@@ -1,0 +1,6 @@
+#ETERNITY 
+
+Calistria is the name of a city constructed into the base of the [[Mount Celestia]], in the plane of [[Celestia]]. It is home to the likes of renowned artisans, the most powerful warriors of [[Tyria]], and all of the most memorable mortal souls to ever be created. As such, it is often visionaries, writers, famed actors, bards of renown, and generous leaders who echo on in Calistria. Much of Calistria is founded on memory and replication. Crops are grown in and around the city, despite its denizen's lack of needing nutrients. Art is made, but in a permanent replication of the artist's work, who never quite manage to craft anything new. The artists never seem to mind. Any gladiatorial combat fought in its coliseums seem to borrow from the fights of Tyria's yore, and any stories woven by the bards seem to use only that which has been told already.
+
+Calistria's roads are paved with limestone-and-cobble streets, a seemingly timeless combination, Calistria's roads have shown no age. Rows of ivory-laden marble pillars decorate 
+Its climate is temperate and humid, yet breezy and enticing. No architect has been credited with its creation.

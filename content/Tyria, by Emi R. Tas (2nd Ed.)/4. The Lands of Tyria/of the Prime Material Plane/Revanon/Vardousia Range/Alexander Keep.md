@@ -1,0 +1,3 @@
+#ETERNITY 
+
+Alexander Keep is the [[Eternal Blades]]' keep in central [[Vardousia Range]]. The Keep is a network of 7 towers and its connective passageways, which form 3 distinct courtyards spread around the central mess hall. The Keep is constructed 4,400 meters above sea level, near the peak of Mount Tyrannus. Alexander Keep was originally named Tyrannus Hold, by [[Soldiers of Strife]] originator Tyrus. Following Agnar's coup of the Soldiers, Tyrannus Hold was renamed in honor of the fallen ETERNITY companion, [[Iron Fist Alexander]]. 

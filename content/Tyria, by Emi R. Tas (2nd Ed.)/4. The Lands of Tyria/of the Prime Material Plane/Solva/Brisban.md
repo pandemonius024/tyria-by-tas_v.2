@@ -1,0 +1,7 @@
+#SUNDER 
+
+Brisban is a bustling economic forum on the eastern half of [[Solva]]. Brisban has seen promising financial activity thanks to a consistent thoroughfare of traders and coin-carriers. Brisban connects each of the other eastern Solvan cities to Dawnguard via the Magnus Monte, drawing in both gold-eyed traders and travelers alike. Additionally, Brisban is accessible to the elves of Elkmire, who are emboldened to venture into Brisban for grace of not having to cross any human-populated roads, and for virtue of Brisban's vendors not caring who they sell to.
+
+While, at any point, half of the people in Brisban may be there for business purposes alone, the other half maintain a tight-knit, religious community in worship of [[Solaris]]. It's a central belief of Brisbaners that Solaris personally melted the ice surrounding Brisban, allowing the newly-moistened farmland to feed hundreds. The equal parts feverous and communal Brisban has fostered a subtle xenophobia, directed against those not from Brisban. Dawnguardians are seen as war-mongering pigs, while everyone from Blackwater is immediately assumed to be a thief and a mongrel.
+
+In the SUNDER campaign, Brisban's Lilac and Blackberries tavern provided brief respite, and locational information to the party of SUNDER.

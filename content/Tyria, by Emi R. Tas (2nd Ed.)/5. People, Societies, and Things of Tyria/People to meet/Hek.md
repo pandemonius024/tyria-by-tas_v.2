@@ -1,0 +1,7 @@
+#Dreamwalker #ETERNITY 
+
+Hek is a Kobold-turned-young-Red-dragon, who became a Dreamwalker alongside [[Quzahn]] and company. Hek grew up in [[Tahode]], a humble village in [[Vinovia]]. Upon hearing of [[Amsa]]'s existence, Hek slew a traveling merchant with a compass to guide him there, where he would then meet Quzahn. Hek, Quzahn, and company would be tasked with the assassination of [[Auntie]], which failed. From there, [[Rox]] would spirit away the party to [[Basti]], where the Dreamwalker campaign took place.
+
+In the conclusion of SOLSTICE, Hek would consume the heart of [[Tangmazu, the trickster]], imbuing him with evolutionary advancement beyond what is naturally possible. Hek would, over the course of weeks, transform into a fully-fledged young Red dragon, complete with his own horde of magical, powerful, and magically-powerful items. Hek is able to transform between his smaller Koboldling self, and his larger Red dragon self with ease.
+
+After Hek consumed Tangmazu's heart, [[Tyria]] fashioned a portal to the Material for Hek, leading out of the [[Shattered wasteland]]. Hek asked Tyria to instead bring him to a treasure hoard, to which Tyria reluctantly obliged. Tyria would then bring Hek to [[Marcel Mikhail]]'s estate, whom Tyria has deemed unsavory and deserving of Hek's arrival. 

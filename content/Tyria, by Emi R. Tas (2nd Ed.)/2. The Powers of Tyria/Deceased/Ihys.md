@@ -1,0 +1,1 @@
+Ihys is the brother of [[Asmodeus]], and one of the only creatures in existence at the beginning of the universe. Ihys came to represent the order of law, and the virtue of good. Ihys argued with Asmodeus over the fate of the mortal souls that were to be made in their realm. In a decisive moment, Asmodeus killed Ihys, claiming dominance over mortals.

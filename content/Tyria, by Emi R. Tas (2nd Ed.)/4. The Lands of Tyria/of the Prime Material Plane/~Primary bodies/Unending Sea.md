@@ -1,0 +1,1 @@
+The Unending Sea is the name of the contiguous body of water encompassing each continent in the [[Prime Material Plane]]. The Unending Sea was created by [[Torentia]], god of water, who opened a spout to the [[Plane of Water]] shortly after the death of the Divinarius.

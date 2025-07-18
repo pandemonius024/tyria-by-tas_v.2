@@ -1,0 +1,3 @@
+*via PF2e GM Core pg. 175*
+
+A great and rocket shell situated between the [[Plane of Metal]] and [[Plane of Wood]], the Eternal Delve hosts a unique and varied ecology of creatures at home in its rocky depths. Far from an endless, solid expanse, the Plane of Earth is riddled with great caverns and cave systems, excavated artificial vaults, vast crystalline geodes, and underground groves and springs of molten metal where it borders its neighboring planes. Housing untold riches in gemstones and veins of precious metals, the Plane of Earth is an attractive setting for planar travelers seeking wealth and willing to risk danger and the wrath of elementals, jabalis, and other inhabitants who resent the plunder of their home.

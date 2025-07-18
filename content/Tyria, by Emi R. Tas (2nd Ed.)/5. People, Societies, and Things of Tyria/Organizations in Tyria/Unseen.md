@@ -1,0 +1,13 @@
+#ASCENSION #ETERNITY #SUNDER
+
+The Unseen is a highly secretive network of spies and political manipulators focused on controlling power within [[Asteria]]. Their motives and ultimate goal are unknown. The identities of the numbered leaders of the Unseen are unknown. The exact reach, identity of personnel involved, and true scope of the Unseen are similarly, unknown.
+
+Following the ASCENSION campaign, Emji-Jae Wanwon the fifth of Asteria established ties into the Unseen as part of a bid for political power in opposition to her family, the Wanwons. At the time of the Solstice, Emji-Jae was using her influence to sway the opinion of the public against the Wanwon-supported candidate, longtime friend of the Wanwons, [[Moira Rosenbaum]]. Emji-Jae is aware of Moira's connection to the Unseen through her own connections to the Unseen, and is resistive against the induction of such.
+
+[[Ambrose Tenebris]], ex-leader under the title "Five", operated as part of the Unseen for decades prior to his departure. Little is known about how Ambrose got into contact with the Unseen, or what Ambrose's operative goal was during his tenure. Prior to the ETERNITY campaign, Ambrose used his influence and dominion over the western Revanon chapter of the Unseen in order to incorporate Deimos Tenebris, and the shadow-replicant of Deimos' brother, Phobos Tenebris, into the Unseen. The incorporation of the Tenebris brothers happened after the destruction of their hometown, in which portals to the Dark opened to herald shadowy, deadly behemoths. In part or because of the Unseen's secretive nature, this action went unacknowledged. 
+
+*Note: I speculate that the eradication of Hollowfall comes as part and parcel of the Unseen's attempts to erase Ambrose's connection to society. The proximity of Ambrose's entrance into the Unseen with the destruction of Hollowfall speaks to a brutal actor who wishes to erase someone's ties to society.*
+
+Prior to the SUNDER campaign, an anonymous individual signed only as "[[1]]" sent letters demanding that a number of debtors come to Baveil. The indebted adventurers found themselves guided by the anonymous writer's letters, until One suddenly halted all communications. While this "One"'s link to the Unseen has yet to be proven credible, the naming convention, access to lifesaving materials, and cryptic messaging lend credence to the theory.
+
+Following the SOLSTICE campaign, Ambrose left his post as Five, and severed his connections to the inner workings of the Unseen. Ambrose retains his manor in Asteria. His successor, Five, has begun work on gaining power over individual casino operators at Amsa. 

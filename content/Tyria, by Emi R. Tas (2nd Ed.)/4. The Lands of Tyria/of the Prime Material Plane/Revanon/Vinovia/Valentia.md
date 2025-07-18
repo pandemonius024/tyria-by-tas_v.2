@@ -1,0 +1,9 @@
+#ETERNITY 
+
+Camp Valentia is a rendezvous point and camping ground used by archaeologists and sightseers while exploring [[Hasha]]'s remains. Valentia is, by and large a campground with nightly watch, and a watering hole providing cheap beers. Valentia is operated solely by watchmen paid for by the teams who make trips there, and the beer vendors who have a vested interest in selling to travelers. Valentia was established in 602 AS by Asteria's Gargetha expedition, who settled the area just prior to their excursion into Hasha. After Gargetha's extermination by the ghosts of Hasha, Camp Valentia has nonetheless remained a comforting presence to those daring enough to venture into Hasha.
+
+As one of the sites frequented by denizens of [[Vinovia]] and Asteria alike, taxis from Amsa have found it prudent to operate within Valentia. Compass-bearers offer cheap passage into Amsa at Valentia, often touting Amsa as the "walking wonder of Vinovia".
+## History
+At the beginning of the ETERNITY campaign, Agnar Lightbringer, Qatar Altan, Deimos Tenebris, and Signus were called to Valentia on a simple mission: find an old tome of poems in Hasha. Once at Valentia, the nascent ETERNITY set off into Hasha, kicking off the campaign proper.
+
+Following the ETERNITY campaign, Hasha's explosion and termination of the temporal anomaly that surrounded shifted the consumer base of Valentia. Due to Hasha's violent destruction and lack of gravity, the archaeological value in its remains has plummeted. However, the changing of a temporal anomaly with a gravitational anomaly has only piqued the masses' interest. Tourists and sightseers now frequent the campgrounds of Valentia at a higher rate than before, braving the colossal spikes surrounding Hasha just for a glimpse at the unreality that lies within.

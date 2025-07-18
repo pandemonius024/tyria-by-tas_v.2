@@ -1,0 +1,1 @@
+Trogal is a humble village on the eastern reaches of [[Metrica Province]]. According to [[V's notes on Phobos]], [[Deimos Tenebris]] visited Trogal after the destruction of [[Hollowfall]], during the decline of his physical state.

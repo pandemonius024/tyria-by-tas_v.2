@@ -1,0 +1,15 @@
+#ETERNITY 
+
+Ambrose Tenebris is the uncle and adoptive guardian of [[Deimos Tenebris]] and [[Phobos Tenebris]], and acted under the pseudonym Ambrose Ackner during his tenure as Five in the [[Unseen]]. Following the destruction of his hometown by Deimos' shade portals, Ambrose would swiftly step in to shelter Deimos and the shadow of Phobos. Ambrose used his position in leadership in the Unseen to tacitly give Deimos and Phobos an in into the organization. This setup gave Ambrose the excuse to task Moira Rosenbaum with overwatch over Deimos, to ensure such a catastrophe never happened again.
+
+Ambrose, acting as Five, was instrumental in Phobos' reformation into Deimos. Using his position as Five, Ambrose accessed texts and instruction detailing the process needed to mend Deimos' shattered soul with Phobos' shadow. Near La Escuela de la Montanha, Five brought Deimos and Phobos together in the shade of a graveyard, incanted Phobos into Deimos, and kept watch over Deimos during his recovery.
+
+Upon learning from Moira that Deimos and Phobos had been separated violently, and that a Phobos from an alternate timeline, [[Mori Tenebris]], had also died, Five stepped in. Leaving his post in the Unseen for good, Ambrose joined the party of ETERNITY, determined to rescue his sons.
+
+Following the Solstice, Five searched desperately for any sign of his missing sons. Tangmazu's labs in the Realm of Chaos, where the party had originally found Deimos, had fallen into the swirling vortex. Alethia was the only remaining lead on Deimos' location. Phobos' shade, having been unable to be reformed with Deimos, had appeared to meld into the shadows of Amsa. Mori, even, was rejected back into his home universe. 
+
+After months of roaming Tyria, hope hanging on a thread, Ambrose went home. With his ties to the Unseen severed, and his only family seemingly gone, Ambrose assumed the worst.
+
+It was only thanks to a ritual circle pattern that Ambrose taught Deimos in his youth, that Deimos was able to navigate his way to Five's home with Phobos. Upon seeing the brothers, Ambrose embraced them, and vowed to never let them out of his sight again. Together, the 3 Tenebris' enjoy an early retirement from espionage and spycraft, living together ever after.
+
+Ambrose's retirement isn't entirely quiet. He lends a hand to Nero du Fleur-Donati, one of the warriors at his side in the fight against Tangmazu, in his conquest of Amsa. Nero, seeking resources and mentorship in the politics of managing an underground guerilla organization, reached out to Ambrose for assistance in establishing Arachnis. Ambrose would end up donating up to 50% of his savings to purchase food, medicine, renovations, basic weaponry, and clothing for the newly-minted organization. Additionally, Ambrose and Deimos would, on occasion, show up in the depths of Amsa in order to sway some guards towards Nero's favor. Lastly, Ambrose would provide mentorship and guidance in the form of Sendings to Nero, answering his questions on the intricacies of running such an organization, and sharing his wisdom in leadership whenever possible.

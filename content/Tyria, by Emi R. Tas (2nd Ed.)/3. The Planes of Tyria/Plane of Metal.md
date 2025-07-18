@@ -1,0 +1,3 @@
+*via PF2e GM Core pg. 176*
+
+After being cut off since prehistory, the Plane of Metal recently returned to the planar cosmology. Still resuming its ancient form, it wedges between the [[Plane of Earth]] and [[Plane of Flame]], vast in scope but still expanding. Metal of every kind (liquid and solid), decaying cityscapes, and intense magnetic fields make up the chaotic structure of the plane. Creatures reflect the jumble of forces that make their home. Many have fluid forms of flowing metal or inhabit clouds of rust. The genies of the plane, zuhras, put on bold performances keyed into the plane's dissonance.

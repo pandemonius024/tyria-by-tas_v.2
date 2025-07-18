@@ -1,0 +1,5 @@
+#ASCENSION 
+
+Jaemji Wanwon is the fifth in his lineage, son of Jaemji Wanwon the fourth, and Emji-Jae Wanwon the fourth. As the brother of [[Emji-Jae Wanwon the fifth]], Jaemji was much the doting sibling, poking fun at Emji-Jae's rebellious nature, but always keeping a watchful eye out for her. In death, Jaemji left a vacuous hole in the Wanwon family, furthering the divide between Emji-Jae and their parents, and forever taking a part of all their hearts with him.
+
+Jaemji was killed by a devil summoned by fate itself. Jaemji of ASCENSION drew 1 too many cards from the Deck of Many, resulting in the summoning of a fiend who thirsted for all their blood. Outmatched, each survival member of the original ASCENSION party were tracked down, and slain. Jaemji, [[Des]], and [[Ji-Eun]]  were hunted for sport, and their remains were splattered across the planes.
