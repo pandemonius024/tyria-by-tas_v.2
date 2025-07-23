@@ -9,4 +9,4 @@ Damian Ashborne is often credited with the contemporary promotion of Soldiers' d
 # Commentary
 I find the involvement of the Soldiers of Strife in foreign affairs to be, at best, a shaky political stunt at best, to incredibly lazy at worst. Indeed, while the services and potential that a Soldier provides to the modern military force is quite terrifying, the need for clear, decisive victory on the ground has strayed far and away from us. With the forces of archmages at hand in every nation, the sheer threat of an arcane barrage limits any tactical maneuver that a sovereign can risk to make, else they provoke the onslaught of a thousand suns. While the Soldiers of Strife have been a force of nature in the past, particularly as they were in the Brudel invasion of Hasha, they continue to fall out of import on Tyria's land. 
 
-- *[[Adrian Tas]]*
+- *Adrian Tas*

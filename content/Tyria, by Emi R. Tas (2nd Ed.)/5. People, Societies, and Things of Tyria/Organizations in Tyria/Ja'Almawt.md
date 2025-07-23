@@ -1,5 +1,7 @@
-#ETERNITY
-
+---
+tags:
+  - ETERNITY
+---
 The Ja'Almawt are a nomadic tribe of [[Vinovia|Vinovians]] who carry their lengthy history within their oral tradition. In their infancy, the Ja'Almawt faced an early extinction when Brudeli soldiers invaded Hasha; the scholars of the would-be Ja'Almawt were still coalescing. Their premature end would be averted by one [[Isko Kidar]], a Calistrian, who felt their deaths would be a great injustice to the health of Hashan society. Explaining his involvement, Isko spoke at length about the importance of the Ja'Almawt's preservation efforts, and gave praise to the scholars for "daring to remember". After their safety was secured, the Ja'Almawt would carry on Isko's words, and commit themselves to an oral tradition that would carry on the stories of the past through the sands of time.
 
 The Ja'Almawt are devout followers of the [[Light]], and are granted druidic powers in return. A magical set of gloves, the [[Hands of the Covenant]], were developed in order to aid lesser-abled Ja'Almawti's in the control of their powers. Select few Ja'Almawti's are able to form telepathic bonds with small, spore-like creatures, through which they are able to mend, attack, and defend against threats to the tribe. [[Qatar Altan]], one such telepathically-inclined Ja'Almawti, showed significant prowess with telepathic powers early on, evolving to harness the powers of the Light even without aid.

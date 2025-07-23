@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 E'Lenora is an occupied elven city originally constructed as scaffolding in support of the Hill. The Hill was built by [[Pharasma, the inevitable]] in the decade leading up to the [[Shattering]], and was subsequently abandoned by Pharasma once her goal had been achieved. Later, industrial-minded elves split from [[Tyria's Root]], and came across E'Lenora in the year 163 AS. From 163 AS till the Solstice in 633 AS, the elves of E'Lenora maintained the Hill, studied the philosophy of engineering, and became artisans of gears and machines. In the years leading up to the Solstice, beginning in ~600 AS, [[Mania]] experimented on E'Lenorans with a system that would enable remote control of Axiomites. Following the Solstice, Mania returned to E'Lenora from the Shadowfell, and promptly enslaved the E'Lenorans by use of brute force.
 
 Pharasma's choice to construct the Hill where she did was no mere accident. Pharasma, in a concerted effort to bring about the circumstances necessary for her to take power, searched for the Prime Material's most vulnerable location. This location, whether Pharasma was or was not aware at the time, is the predicted epicenter of aetheric waves propagating across the aether. These standing waves, detectable across Tyria and deep into the annals of space, are the remnants of a singularly massive, magical explosion theorized to be the spark that created the universe. The strongest piece of evidence arguing for Pharasma's awareness of this centrality, is the fact that the hammer of the Hill is constructed directly above this epicenter, within an error of 5m.

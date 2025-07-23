@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Lex Proxima is an independent research facility originally focused on the collection and analysis of archaeological finds. Lex Proxima was requisitioned repurposed by [[Anton Essa]] under direction by [[Tangmazu, the trickster]] in mid-619, to house and conduct experiments on a number of humanoid specimen. Later, just prior to the beginning of ETERNITY, [[Dante du Fleur]] was captured by the Outfit, and sent to Lex Proxima. There, the party of ETERNITY found Dante, and freed him from suspension in the laboratory.
 
 Lex Proxima is a singular, stony building surrounded by an electrical fence. The fence itself is a 50 ft. radius dome, propagating from a set of nodes arranged in a circle around the central building. The stony building at the center of Lex Proxima is the entrance to the insulated, underground facility in which the laboratory proper is. The laboratory consists of a number of test beds and storage units, with a secondary location dedicated to the focused experimentation of a singular organism. 1 testing vat is rigged with a number of tubes and control knobs, with 3 additional vats designed for long-term suspension along the wall. 

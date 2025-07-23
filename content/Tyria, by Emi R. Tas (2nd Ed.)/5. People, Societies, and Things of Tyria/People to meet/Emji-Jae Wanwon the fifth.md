@@ -1,5 +1,7 @@
-#ASCENSION 
-
+---
+tags:
+  - ASCENSION
+---
 Emji-Jae is a half-elf half-human Assassin, daughter of Emji-Jae Wanwon the fourth, and Jaemji Wanwon the fourth. As daughter of the Wanwon family of [[Asteria]], Emji-Jae was born with a silver spoon in her mouth. In the course of her upbringing, Emji-Jae would reject her parents' dedication to Asterian politics, develop a thirst for blood, and eventually decide to run out and strike out a life of her own.
 
 As a blade-for-hire, Emji-Jae would make a name for herself in the Asterian underground, developing ties to the thieves of the underworld, and the [[Unseen]] forces at play. 

@@ -1,3 +1,7 @@
+---
+tags:
+  - ETERNITY
+---
 Hollowfall was a small town in central [[Metrica Province]], and was the hometown of Ambrose Tenebris, Deimos Tenebris, Phobos Tenebris, and in an alternate timeline, also Mori Tenebris. Hollowfall was eradicated, after portals to the Dark opened, releasing shadowy beasts that decimated all but one present denizen. Deimos Tenebris was the sole survivor of this attack.
 
 According to Deimos' backstory, Deimos and Phobos were but young lads, playing in the fields as they always have. Phobos, having just found a crossbow, played a bit too roughly with Deimos, pointing the crossbow at his little brother in a threatening manner. Genuinely threatened, Deimos panicked, and a deep, Dark power lurking within him stirred. Shadowy beasts appeared, decimating Phobos in front of Deimos, killing Deimos' parents, neighbors, and the entire village that raised him. Hollowfall has not been re-settled, and the area has been left as ruins.

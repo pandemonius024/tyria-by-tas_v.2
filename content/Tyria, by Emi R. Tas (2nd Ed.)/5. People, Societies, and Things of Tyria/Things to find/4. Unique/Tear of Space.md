@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 The Tear of Space is a shard of crystalline [[Luminiferous Aether]], shed by [[Tyria]] while she wept over the bodies of her dead children. The Tear of Space was suspended in the floating tower, Pavo Perilos, by the then-patron of knowledge, [[Cassandra Lumen]]. During the events of the ETERNITY campaign, the party come across the Tear of Space, and dislodge it from the hands of the monk carrying it, causing Pavo Perilos to crash to the ground.
 
 The Tear of Space fell past the divine corpses, and into the Void that surrounded Tyria. As it fell, it brought with it an invisible field of Aether, an infinitesimally dense, all-encompassing fabric through which magic began to spread. With the spread of the Luminiferous Aether, came an observable, calculable, pattern of waves following the Tear of Space's trajectory. By observing the differences in velocity of the Luminiferous Aether across various points in space, one Cassandra Lumen ascertained the position of the Tear of Space, and followed it.

@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 *Meanwhile in [[Asteria]]...*
 *Dozens of copies of this hit piece lie scattered across the concrete. Barkhum, while tending to the petunias in front of his tavern, takes a copy out of the bush, and reads:*
 

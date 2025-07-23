@@ -1,5 +1,7 @@
-#SOULREND 
-
+---
+tags:
+  - SOULREND
+---
 Selene Silvermoon is the defiant daughter of [[Gladius Silvermoon]] and [[Rubia Silvermoon]], and sister to [[Aparine Silvermoon]]. Selene, figuring that she wasn't cut out for politique and leaderly life, instead opted to open a hole-in-the-tree clinic. Using her experience (or, lack thereof) in medical practice, Selene offered medical consult for dirt cheap rates.
 
 Gladius, worrying for Selene's safety, but ultimately knowing that he could never reel her in, assigned [[Eliza Khione]] to the protection of his daughter. Gladius offered Eliza a handsome salary in exchange for the observation and protection of Selene, to which Eliza accepted. Selene, aware of the deal, took in Eliza anyway as insurance against any pissed-off customers, angry at Selene's malpractice.

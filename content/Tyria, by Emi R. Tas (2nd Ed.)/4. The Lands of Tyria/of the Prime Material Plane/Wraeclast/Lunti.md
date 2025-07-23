@@ -1,5 +1,7 @@
-#SOULREND 
-
+---
+tags:
+  - SOULREND
+---
 Lunti is a jungle-based city built on the remains of Sarn, the gladiatorial city. Lunti is a mostly anarchic civilization, brought to order by [[Gladius Silvermoon]], who formed the Gawin and Tawod. The Gawin brings law to Lunti, and the Tawod brings order. Lunti manages to survive thanks to post-Eclipse agricultural advancements made by [[Rubia Silvermoon]], and thrives thanks to involvement from [[Mileina]].
 
 Lunti's Gawin are the small selection of people deemed fit to determine what should be allowed and not allowed within Lunti's borders. On top of their litigation, the Gawin are often expected to host numerous community events, such as feasts, parties, and other gatherings, to both spread word of their rulings, and to keep the community healthy. The Gawin are elected into their position by the will of their people, often hosting a gathering of their own to showcase their involvement in municipal proceedings. A civilian needs momentum behind them, and support from existing chairs of the Gawin, to be accepted into the Gawin.

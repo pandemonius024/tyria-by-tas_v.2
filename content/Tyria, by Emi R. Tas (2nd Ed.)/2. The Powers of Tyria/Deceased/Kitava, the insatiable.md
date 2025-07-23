@@ -1,6 +1,6 @@
 ---
 tags:
-  - SUNDER
+  - REAVE
   - WIP
 ---
-kitava. big hunger. oooof drowned... dead :(
+Kitava... big hungry. [[Torentia]] made him go bye bye :(

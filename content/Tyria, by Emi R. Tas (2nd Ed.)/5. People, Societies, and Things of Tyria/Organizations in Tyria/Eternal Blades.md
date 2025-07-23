@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 The Eternal Blades is the evolution of the [[Soldiers of Strife]], who were taken over in a nonviolent revolution in late 633 AS led by [[Agnar Lightbringer]]. Agnar lay claim to the Soldiers following SOLSTICE's routing of [[Damian Ashborne]] and his cavalcade, a move that effectively demonstrated Agnar's dominance over the prior leadership. The Eternal Blades reside in the Soldiers' former residence, high in the [[Vardousia Range]], but their code, structural organization, and mission, have been dramatically changed.
 
 The Eternal Blades are guided by the "Three Axioms", described below:

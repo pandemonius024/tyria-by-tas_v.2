@@ -1,5 +1,7 @@
-#ETERNITY
-
+---
+tags:
+  - ETERNITY
+---
 VINOVIA is an anthology compiling [[Emi R. Tas]]' study of [[Vinovia]], organized into 7 individual books, each with another letter of "Vinovia" printed on its spine. [[Qatar Altan]] discovered a copy of VINOVIA with the second "I" book missing from its collection. The following recounts Qatar's experience searching through the books for information concerning the [[Ja'Almawt]], and anything about a man known by the name "Isko".
 
 ---

@@ -1,5 +1,7 @@
-#SUNDER 
-
+---
+tags:
+  - SUNDER
+---
 The Atkinson Estate is a private, manicured town located in between Brisban and Blackwater. The Atkinson Estate was privately funded and constructed by the Atkinsons, a lineage that often holds one or more seats in [[Dawnguard]]'s higher courts. As such, the Atkinson's have had nigh-exclusive dominion over who-and-what is allowed into their Estate; these privileged members include the half-dozen gardeners needed to keep their acres of bushes trimmed, the verifiable crowd of groundskeepers that are tasked with swatting away the wildlife, the house staff responsible for cooking, cleaning interiors, and servicing the family, and the Atkinson's themselves.
 
 Order is kept on the Estate via a hierarchy of servitude. Armored guards are the most direct extension of the Atkinson's will, and they enforce peace and quietude over the many butlers, who in turn direct and manage the numerous groundskeepers, who themselves are considered of a higher stature than visitors, travelers, and traders alike. Additionally, certain members of the Atkinson line are known to go undercover as a butler themselves, in attempts to sniff out dissident and quash it before it becomes a bigger problem. These protocols have created an ever-sunny atmosphere around the Estate, in spite of obvious rainclouds overhead.

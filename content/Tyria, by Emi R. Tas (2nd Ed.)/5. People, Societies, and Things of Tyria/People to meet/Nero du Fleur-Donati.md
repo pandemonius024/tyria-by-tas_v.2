@@ -1,6 +1,9 @@
-#Dreamwalker #ETERNITY  
-
-Son of [[Dante du Fleur]] and [[Manetto Donati]], Nero du Fleur-Donati is a changeling magus, who wields the [[Blade of Pride]]. After being turned by Manetto, Nero would roam the streets of [[Amsa]] with a newfound thirst for blood, and feelings of parasites under his skin. Nero's teeth would eventually find Dante, who was poring over the pale fellow. From then on, the fates of Dante, Nero, and Manetto would be intertwined -- save one of their threads being severed.
+---
+tags:
+  - Dreamwalker
+  - ETERNITY
+---
+Son of [[Dante du Fleur]] and [[Manetto Donati]], Nero du Fleur-Donati is a changeling magus, who wields the Blade of Pride. After being turned by Manetto, Nero would roam the streets of [[Amsa]] with a newfound thirst for blood, and feelings of parasites under his skin. Nero's teeth would eventually find Dante, who was poring over the pale fellow. From then on, the fates of Dante, Nero, and Manetto would be intertwined -- save one of their threads being severed.
 
 Nero found himself traveling with the Dreamwalkers following a series of events. 
 

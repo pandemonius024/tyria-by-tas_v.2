@@ -1,6 +1,8 @@
-#ETERNITY 
-
-*A small sheaf of papers pinned to the wall in Safar's office catches your eye. As [[Dr. Safar]] attended to the rest of the party, you found an opportunity to leaf through the pages in waiting. The pages appear to be an unsent letter from Dr. Safar to an old, unnamed colleague. In between Dr. Safar's colorful commentary on the state of [[Corcoran Laboratory]], the following excerpts from his handwritten notes stand out to you:*
+---
+tags:
+  - ETERNITY
+---
+*A small sheaf of papers pinned to the wall in Safar's office catches your eye. As Dr. Safar attended to the rest of the party, you found an opportunity to leaf through the pages in waiting. The pages appear to be an unsent letter from Dr. Safar to an old, unnamed colleague. In between Dr. Safar's colorful commentary on the state of [[Corcoran Laboratory]], the following excerpts from his handwritten notes stand out to you:*
 
 ...in short, *shattering* is the violent rapturing of a creature's soul into irreparable shards of the self. Through cursory trials, *shattering* can be certainly attempted on any number of Tyria's creatures, but results are highly one-sided; most animals, flora, inanimate objects, and "typical" test subjects perish. 
 

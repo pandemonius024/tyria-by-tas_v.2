@@ -1,5 +1,8 @@
-#ETERNITY #WIP
-
+---
+tags:
+  - ETERNITY
+  - WIP
+---
 Hasha was a city state on the north western reaches of [[Vinovia]]. 
 
 Hasha was governed via populist monarchy, and its final ruler was [[King Anton]]. Prominent thought leaders that influenced Hasha towards its end days, who would later influence the world at large, include [[Dimitri]] as former arcane advisor to the masses, [[Mania]] as former advisor on inter-state relations during wartime. While nominally, the monarch had final say on the laws and practices of Hasha, the governmental operation of the city state more closely resembled a society of codes and bylaws, in which governance was fashioned out of consensus, and desirable behaviors are outlined, rather than undesirable illegality. It is this anarchic, government-by-populism that critics point to when explaining the chain of events leading to the spectacular fall of Hasha, [[The Day that Hasha Died]].

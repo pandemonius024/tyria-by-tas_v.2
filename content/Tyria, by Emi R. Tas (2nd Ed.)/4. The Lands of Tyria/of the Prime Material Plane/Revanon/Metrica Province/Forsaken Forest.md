@@ -1,5 +1,8 @@
-#ASCENSION #SOULREND 
-
+---
+tags:
+  - ASCENSION
+  - SOULREND
+---
 The Forsaken Forest is the Asterian name for the woodland area surrounding [[Tyria's Root]]. The elven name for the same region is, merely, "Tyria's Root". Forsaken is a vast, densely populated forest directly west of [[Asteria]], whose roots and leaves are constantly threatening to enclose and encapsulate Asteria's land. From a wood elven perspective however, Tyria's Root is simply trying to return to the land it is beholden to.
 
 The Forsaken Forest gained its moniker following a series of public executions of 3 human adolescents by its elven residents. The human perpetrators, the wood elves had claimed, disrespected their way of life by repeatedly damaging their woodland, making "unnecessary" racial comments, and levying threats of violence at the elves. Before true violence emerged, [[King Radovan]] intervened, narrowly avoiding a full-out retaliation from human vigilantes. In a deeply unpopular move at the time, Radovan declared that Asteria would not pursue any retaliatory military action on the elves for their execution of those 3 adolescents, and declared the forest, "a sacred land, beholden to those borne of it, and forbidden to those borne without it." The name, "Forsaken Forest", is the commoner's name for the region; because if you're caught dead in that forest, you too, will be forsaken by your people.

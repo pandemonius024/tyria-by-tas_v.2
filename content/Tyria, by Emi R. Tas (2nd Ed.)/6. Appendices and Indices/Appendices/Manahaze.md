@@ -1,5 +1,7 @@
-#Dreamwalker 
-
+---
+tags:
+  - Dreamwalker
+---
 When the Dreamwalkers were kidnapped, and the original members of the [[Vykem]] were brainwashed, they were placed under Manahaze. Manahaze is a dreamlike, fantastical hallucination that causes affected creatures to experience an alternate reality. Manahazed creatures perceive the world around them to be idealistically fantastical, and themselves, to be ardent, similarly fantastical heroes. The term "Manahaze" originates from one standout characteristic of the hallucination: Manahazed creatures comprehend magic as functioning by using an alternate fundamental force, known as "mana". [[Rox]] developed and utilized Manahaze to keep the Wykin under his control, and attempted to similarly utilize Manahaze to subjugate the Dreamwalkers.
 
 As mentioned, Manahaze causes creatures placed under it to perceive an entirely different reality than non-Manahazed creatures. As observed: swathes of innocuous villagers may become vicious tides of blood-thirsty zombies; individually-large trees may be beacons of the evil Dragon King; oppressive elves may be heroic soldiers keeping the peace; oppressed orcs may become dogs in need of training, and leashing. 

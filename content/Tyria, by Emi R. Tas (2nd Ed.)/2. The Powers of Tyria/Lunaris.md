@@ -1,5 +1,9 @@
-#ETERNITY #Dreamwalker #WIP 
-
+---
+tags:
+  - ETERNITY
+  - Dreamwalker
+  - WIP
+---
 [[Solaris]]
 
 Lunaris was worshipped deeply, and separately from her sister in [[Mayhausen Keep]], in which a cathedral and its masses, stands. In Dreamwalker, Lunaris emboldens [[Nox]] as her champion, in the aims of gaining enough power to triumph over Solaris in their eternal duel.

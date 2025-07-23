@@ -1,5 +1,8 @@
-#REAVE #SUNDER
-
+---
+tags:
+  - REAVE
+  - SUNDER
+---
 The Black Rose Company is an armed guild of adventurers stationed in and across [[Solva]] dedicated to the defense of her people. The Company operates rather benevolently, only taking in payments as needed to sustain the Company's operating costs, which include: rent for their guildhouses, food and water, armaments, and more. As an organization, the Company requires monthly dues from each of its members, and in return, offers members the following: access to the guild's assignment boards; access to guild-only connections to smithies, leatherworkers, and other artisans; and access to guild-only lodging, free of charge across Solva.
 
 The Black Rose Company's headquarters are located in [[Baveil]]. The original location of the Black Rose Company's HQ was underneath Blackwater's *Blackwater tavern*, but a run-in with Rox forced the Company to temporarily relocate to Baveil. The Company has since considered the Blackwater location to be permanently compromised, and as of the Solstice, have redoubled efforts to make permanent the Baveil HQ. The headquarters serve as an archive for the completed and incomplete tasks taken up by the Company, a staging ground for established leadership, and a home for piles, upon piles of loose paperwork.

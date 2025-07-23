@@ -1,5 +1,7 @@
-#BANE 
-
+---
+tags:
+  - BANE
+---
 Leoburn Skyforth is a disgraced noble of [[Asteria]], and former Soldier of Strife. Skyforth was sent as a war missionary by the [[Soldiers of Strife]] to work under [[King Radovan]], and subsequently built a name for himself there. Following his tenure under King Radovan, Skyforth blemished his name with a hot streak of embarrassing public appearances, and disgraceful remarks. Among these events include criticism of neighboring elven society as "tree-jerkers", and a variety of drunken appearances in villages across Metrica.
 
 In the BANE campaign, Skyforth appears to the party from Tolevia offering them a seat of power, should they help Skyforth clear his name and assume power. The BANE party were unsuccessful in their pursuit, after Aramis was arrested, and the rest of the party deemed it prudent to abandon Skyforth. Following the BANE campaign, Skyforth made an effort to clear his name by his onesome.

@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Pavo Perilos was a floating island in the skies above Mor Proxima, owned by [[Cassandra Lumen]] for use as a tea-room. It was suspended a mile into the air using the [[Tear of Space]], whose taking by the party of ETERNITY caused Pavo Perilos to plunge into the sands below. Lumen, after lamenting the loss of her precious tea-room, left Pavo Perilos in the sands of [[Vinovia]].
 
 Lumen initially constructed Pavo Perilos into a clearing due southeast of E'Lenora. Following Pharasma, the inevitable's loud, messy destruction of the Prime Material, Lumen utilized the Tear of Space to move Pavo Perilos somewhere nicer. The ensuing removal of a huge chunk of earth resulted in the formation of a lake, which remains to this day.

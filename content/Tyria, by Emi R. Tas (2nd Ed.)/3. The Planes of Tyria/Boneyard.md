@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 The Boneyard is a plane formed as an intermediary between the twin afterlives in [[Celestia]] and [[Alethia]]. The Boneyard is a finite cavern of lava-spouts, colossal stalactites, and impish swarms, walled off by volcanic, red rock. The Boneyard is an intermediary between fallen mortals and the afterlives, claiming to be an intermediate step for soul to "ensure everyone gets the ending they deserve". Created by [[Asmodeus]], the Boneyard is a home to devils and demons, joined under the mission of processing every fallen mortal soul, and taking out their "cut", or souls deemed unfit for neither Celestia nor Alethia. 
 
 Upon death, any mortal that doesn't have a strong affinity for either Celestia or Alethia is sent to the Boneyard. Mortals that are sent to the Boneyard after death are definitionally average, neither having the socio-physical impact of the Remembered, nor the abject forgettability of the Forgotten. While in the Boneyard, a mortal's life is weighed "objectively" by the devils and demons in attendance, who search through their history for despicable crimes worthy of demonhood, unclaimed *serment* of their soul to a devil(s), and/or lasting damnation from a godly entity. Additionally, the devils and demons who process fallen mortal souls put forth a proffer to the indebted, and those with incomplete work, promising the completion or absolution of their debt in exchange for their immortal soul. While the scheme and fundamental structure of the Boneyard is amoral, the devils and demons within the Boneyard can generally be trusted to uphold their word -- to the letter of the law.

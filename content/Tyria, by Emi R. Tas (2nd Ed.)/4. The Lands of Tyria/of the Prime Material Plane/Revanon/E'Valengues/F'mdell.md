@@ -1,5 +1,8 @@
-#ETERNITY #Dreamwalker 
-
+---
+tags:
+  - ETERNITY
+  - Dreamwalker
+---
 F'mdell is a border city belonging to the elves, marking the divide between the humans' territory in Metrica Province, and the elves' territory in [[E'Valengues]]. F'mdell is also a port, allowing the elves access to the worlds' goods, most notably of which being [[Bastilite]] coming in from Basti. F'mdell was the location of an assault directed by Tangmazu, the trickster under the guise of Dimitri, in a coordinated attempt with Pharasma, the inevitable to secure the Tear of Time and Tear of Space. While the city survived the carnage leveled by this encounter, the recency and terror that it wrought has spurred isolationist sentiments from the municipality.
 
 Tangmazu's assault on SOLSTICE was three-fold: an army of cheap puppets were covered with Tangmazu's illusion to slow the party down; 2 iron-wrought Nasurgeth, were targeted at the Dreamwalkers; and Pharasma, under illusion as Lunaris, sent Graviar and a party from the Soldiers of Strife directly to the Dreamwalkers. The citizenry of F'mdell witnessed the glow of the moon, and subsequent assault of the clones, and took it to be the work of Lunaris on their shores. This narrative was propagated, in no small part, thanks to Tangmazu's tongue flitting on the streets. A large number of F'mdellians, however, witnessed Qatar Altan's Rayquaza with SOLSTICE flying to meet the moon, turning the conversation towards the utility of non-elves.

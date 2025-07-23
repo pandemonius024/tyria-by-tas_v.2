@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Celestia is the dreamscape from which [[Tyria]] awoke following the death of her children, the [[Divinarius]]. It is a realm of memories, populated by the most impactful, most memorable, and most characterful individuals from the Prime Material Plane. The gods and powers of Tyria often live in Celestia, atop the [[Mount Celestia]], or in [[Calistria]] around the Mount.
 
 Qatar Altan inherited Selûne, the enervate's shrine to the Light, a three-building establishment atop a hill overlooking Calistria. There, he uses a scrying pool and divininate powers to subtly influence the course of Tyrannic history.

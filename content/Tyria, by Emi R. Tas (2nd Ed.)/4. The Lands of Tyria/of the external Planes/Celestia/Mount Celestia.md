@@ -1,0 +1,6 @@
+---
+tags:
+  - ETERNITY
+---
+The Mount Celestia is a large volcano at the center of [[Celestia]], towering above the city [[Calistria]]. The Mount is a towering figure in the landscape, visible at all points in Celestia, and seemingly always crowned by a ring of clouds at its nape. The tip of
+the Mount is said to contain divinity. None have completed the venture to its peak. At the base of the Mount, a swirling vortex offers visiting souls a way back to their original plane.

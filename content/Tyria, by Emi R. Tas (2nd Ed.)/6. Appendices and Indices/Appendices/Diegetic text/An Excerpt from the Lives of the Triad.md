@@ -1,5 +1,8 @@
-#ETERNITY #Dreamwalker
-
+---
+tags:
+  - ETERNITY
+  - Dreamwalker
+---
 # An Excerpt from the Lives of the Triad
 *Cassandra Lumen, patron saint of Research and Discovery*
 

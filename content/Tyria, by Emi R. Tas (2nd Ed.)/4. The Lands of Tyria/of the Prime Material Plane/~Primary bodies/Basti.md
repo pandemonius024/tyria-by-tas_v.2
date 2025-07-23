@@ -1,3 +1,7 @@
+---
+tags:
+  - Dreamwalker
+---
 Basti is the second largest continent in the [[Material Plane]], and is home to a wide variety of disparate, individual habitations. Basti is most famous on a Tyriannic-scale for its production and export of [[Bastilite]], a unique alloy forged from the locally produced bastilium.
 
 Basti possesses a long and storied history of cults, religious fanatics, and strict devotion to [[Lunaris]]. The unique magical properties of bastilium inspired the early Bast (read: person from Basti) to form deeply religious beliefs around the bastilium. Ancestral Bast saw themselves as god-blessed, given dominance over this unique material to serve a greater purpose -- the shape of which, transformed over centuries of history.

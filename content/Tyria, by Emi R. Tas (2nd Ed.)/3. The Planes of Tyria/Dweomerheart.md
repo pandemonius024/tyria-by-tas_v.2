@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Dweomerheart is the plane of the arcane, the home of those beholden to knowledge for knowledge's sake, and the origin of the [[Tear of Space]]. Dweomerheart is a blob of fluid, coagulated [[Luminiferous Aether]] atop which a dozen islands float and bob. The shape of Dweomerheart is inconsistent, as the blob of aether stretches and squashes over the course of hours; particularly-explosive happenings on one island sends waves across Dweomerheart to the other islands. 
 
 The Tear of Space fell from Tyria's cheek, and landed at an arbitrary point in space; that is where Dweomerheart formed. The formation of the aether around the Tear of Space shunted it from proximity to Tyria, creating a physical distance that delayed its discovery. The islands atop Dweomerheart spontaneously came into existence as a result of the concerted dreams of several, unrelated beholders. As the tale goes, a critical number of beholders dreamt about stories from the center of the universe at the same time, resulting in islands capable of hosting those stories manifesting upon Dweomerheart. Later, one [[Cassandra Lumen]] discovered Dweomerheart, the islands atop it, and the Tear of Space. From there on, Dweomerheart was fashioned into a bastion of knowledge and intellect, dedicated partially to the research and study of the universe at large, and partially to housing the collections of beholders, dragons, and particularly cavalier humanoids.

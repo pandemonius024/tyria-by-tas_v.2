@@ -1,5 +1,8 @@
-#ETERNITY  
-
+---
+tags:
+  - ETERNITY
+  - AFTERSHOCK
+---
 The Prime Material Plane is the name of the plane that encircles [[Tyria]]. The Prime Material Plane was created either right before Tyria's first appearance, or immediately following the death of the Divinarius. The Prime Material, originally, was merely a pocket of [[Luminiferous Aether]] surrounding Tyria and her children, containing a few hills, a lake, and a wooden cabin. Over time, it expanded to hold space for the kingdoms and satellites that now exist within it. As the Prime Material grew, it kept stable more space for earth, water, and air, among all other aspects of the concentric planes. 
 
 Following the [[Shattering]], the Prime Material Plane ceased to exist, its place taken by the [[Shattered wasteland]], an aspect of the Void that grew slowly, as the Prime once had. Following the [[Solstice]], the Prime Material is reborn, the Shattered wasteland erased, and the face of Tyria changed evermore.

@@ -1,5 +1,7 @@
-#ASCENSION
-
+---
+tags:
+  - ASCENSION
+---
 **11.01.1071: Betrayed**
 
 \<Optics\>

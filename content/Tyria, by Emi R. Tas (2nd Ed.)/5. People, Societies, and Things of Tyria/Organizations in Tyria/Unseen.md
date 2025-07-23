@@ -1,5 +1,11 @@
-#ASCENSION #ETERNITY #SUNDER
-
+---
+tags:
+  - ASCENSION
+  - ETERNITY
+  - SUNDER
+  - AFTERSHOCK
+  - REAVE
+---
 The Unseen is a highly secretive network of spies and political manipulators focused on controlling power within [[Asteria]]. Their motives and ultimate goal are unknown. The identities of the numbered leaders of the Unseen are unknown. The exact reach, identity of personnel involved, and true scope of the Unseen are similarly, unknown.
 
 Following the ASCENSION campaign, Emji-Jae Wanwon the fifth of Asteria established ties into the Unseen as part of a bid for political power in opposition to her family, the Wanwons. At the time of the Solstice, Emji-Jae was using her influence to sway the opinion of the public against the Wanwon-supported candidate, longtime friend of the Wanwons, [[Moira Rosenbaum]]. Emji-Jae is aware of Moira's connection to the Unseen through her own connections to the Unseen, and is resistive against the induction of such.

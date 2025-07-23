@@ -1,5 +1,7 @@
-#SUNDER 
-
+---
+tags:
+  - SUNDER
+---
 Cradeyr is a half-high elf, half-human armorer, who survived experimentation from one [[Cornelius Xandra]]. Cradeyr wears full armor full time, to the point where he does not remember the look of his body, nor his face. The face of Cradeyr's helmet is a skull, an ever-present reminder that, if he doesn't figure out how to cure the ailment Xandra's experimentation gave him, he will die.
 
 Cradeyr was taken by Xandra, and experimented on, as a young child. These genetic experimentation gave him an intelligent mind, but a fragile, corrosive body. Xandra, after learning how badly that set of mutations harmed Cradeyr, discarded Cradeyr. He performed no research towards curing, or even alleviating Cradeyr's suffering. 

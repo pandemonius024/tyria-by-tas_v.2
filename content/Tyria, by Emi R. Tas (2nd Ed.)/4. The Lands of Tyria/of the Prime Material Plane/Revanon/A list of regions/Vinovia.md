@@ -1,1 +1,5 @@
+---
+tags:
+  - ETERNITY
+---
 Vinovia, or the Vinovian Desert, is an expansive region of [[Revanon]] encompassing the Vinovian desert, the northern shores of Serpent's Pass, the base of the mountains east of the Vardousia Range, and borders the Nemru Lowlands. Vinovia is separated from E'Lenora, and greater E'Valengues by the Vasiliča Range. 

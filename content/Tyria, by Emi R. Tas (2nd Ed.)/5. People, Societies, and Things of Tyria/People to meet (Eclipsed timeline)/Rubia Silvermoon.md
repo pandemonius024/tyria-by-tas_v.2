@@ -1,5 +1,7 @@
-#SOULREND 
-
+---
+tags:
+  - SOULREND
+---
 Rubia Silvermoon is the deceased mother of the sisters, [[Aparine Silvermoon]] and [[Selene Silvermoon]], and wife to leader-elect of [[Lunti]], [[Gladius Silvermoon]]. In life, Rubia spent her days nurturing and tending to life within Lunti, a pattern of behavior that led her to documenting the orbs of light that would rise out of the earth. Learning to develop nearby these orbs from Tyria, Rubia re-discovered a viable method of agriculture following the Eclipse, lending tremendous aid towards Lunti's survival.
 
 Rubia died at sea during an expedition set out from Lunti in an attempt to re-establish contact with Revanon. The continent, which had become increasingly isolated following the Eclipse, was said to contain richer countries and more bountiful pastures. If Rubia and her expedition were able to find and secure lands for Lunti to move to, this would enable them to potentially grow and afford a more comfortable lifestyle.

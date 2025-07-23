@@ -1,8 +1,11 @@
-#ETERNITY #WIP 
-
+---
+tags:
+  - ETERNITY
+  - WIP
+---
 *My son,*
 
-*I pray you enjoy Celestia's vast hills and glorious sunrises, Qatar. I had never been privy to the shrine in which Selûne alleged she stayed. And I doubt I will ever be. My time upon Tyria sheds faster with each coming day. I know not what you achieved in lands I cannot see, but I know one thing. Life's essence, once gifted in grief, now fades in a place none can be. And I know another thing. I know I have not been as present in your life as you had wished. I will not make excuses for myself, but rather, attempt to explain where I'm coming from. I will now try, as best I can, to pass on my tale, in penance and in pride. If you can find it in your heart to read on, to forgive your father his former failures, then I beseech you this now. Allow me to tell you the full story.*
+*I pray you enjoy Celestia's vast hills and glorious sunrises, Qatar. I had never been able to visit the shrine in which Selûne stayed. I doubt I ever will. My time upon Tyria wanes faster with each coming day. I know I have not been as present in your life as you had wished. I will not make excuses for myself, but rather, attempt to explain my absence. I will now try, as best I can, to pass on my tale, in penance and in pride. If you can find it in your heart to read on, to forgive your father his former failures, then I beseech you this now. Allow me to tell you the full story.*
 
 *First, the Tears. I had tried to warn you against involving yourself in those jewels, luckily to no avail. Perhaps I was not warning you, as in yourself, but rather warning my past self, a previous me who was in a situation not unlike yours, at the time. Perhaps my regrets had bubbled up to the surface, unbeknownst to me at the time. I am still unsure. I am glad, ultimately, that you did not heed my warning, and did what you deemed right upon the world. But to say that our situations were perfectly aligned, were the same situation, is to say that history's greatest, are history's contrarians. That is to say, believing history is filled with people going against the grain, is the same as saying the sands are filled with pebbles. Lacking nuance. Aside the point. I had warned you against making, what I believed at the time to be, the same mistake as me. Pursuing lofty-minded goals without aim. Throwing yourself into the fray, only to find frayed relationships thereafter. Only to find that the people you had ventured into the fold alongside, had been altered forevermore by the very pursuit you had needlessly pursued. Only to find that your ambitions had grown out of depth, and those around you had paid the price.*
 
@@ -12,5 +15,3 @@
 
 *Your father,*
 *Loid Altan*
-
-*A last remark, your mother (I suppose, mothers) have always lambasted me for winding on too long. I find it humorous then, that upon reading this letter back, I am forced to agree with them.*

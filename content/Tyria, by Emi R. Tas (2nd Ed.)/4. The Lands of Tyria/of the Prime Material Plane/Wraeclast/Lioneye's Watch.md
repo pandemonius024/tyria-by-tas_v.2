@@ -1,5 +1,7 @@
-#ASCENSION 
-
+---
+tags:
+  - ASCENSION
+---
 Lioneye's watch was a haphazard encampment on the southeast shore of mainland [[Wraeclast]]. As an encampment on the shore facing [[Oriath]], Lioneye's watch is the de facto landing site of people exiled from Oriath; people would be tossed into the ocean, and their bodies would shore up on Lioneye's beaches. Lioneye's watch was named after Marceus Lioneye, a general of the [[Eternal Empire]] whose final stand was made on that very shore.
 
 At the beginning of the ASCENSION campaign, (the very first session!,) the nascent party washed ashore Lioneye's watch's beach. There, they overturned a beastly abomination named Hillock, and began their adventure.

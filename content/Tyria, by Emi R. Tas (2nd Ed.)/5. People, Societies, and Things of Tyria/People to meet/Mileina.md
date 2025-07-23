@@ -1,5 +1,8 @@
-#ETERNITY #SOULREND 
-
+---
+tags:
+  - ETERNITY
+  - SOULREND
+---
 Mileina is a human sorcerer originating from the [[Tower of Magic]], the very same repository of magical prowess that [[Signus]] originated from. When the Tower of Magic suddenly vanished into thin air, Mileina was caught within. Mileina, independently of the Tower of Magic, appeared to the party of ETERNITY in [[Amsa]], from a series of chaotic portals opened topside. After emerging from those chaotic rifts, Mileina immediately recognized Signus, and formed a fixation upon him. Over the course of several days, Mileina stalked Signus, whispering into his ear via arcane messaging, and eventually coerced him into living with her in the [[Realm of Chaos]].
 
 In the ETERNITY campaign, Mileina was available for the party to ask questions concerning the relationship between the planes, and any other arcane-related questions they may have had. The party eventually learned that Mileina was a dominant force within the Realm of Chaos, possessing plane-shaping capabilities and a breadth of knowledge and power in the space. 

@@ -1,5 +1,7 @@
-#SUNDER 
-
+---
+tags:
+  - SUNDER
+---
 Arthas is a half-elf warlock dedicated to the dark arts of life and death. Arthas was once a renowned scholar, whose name was carried into the households of Solva, and known by like-minded idealogues overseas. His name was synonymous with scientific progress, particularly in the region of divine geometry and harmonic principles. As Arthas uncovered more secrets of the universe, the number of things he could discover grew thin, until he began to starve for novelty. The dark arts, the manipulation of life itself seduced Arthas -- a line that could not be uncrossed. 
 
 Arthas' first project as a student of the dark arts was the perversion of [[Graviar]]. Graviar was a fellow from Dawnguard's Academie, and was lulled into Arthas' grasp with a false promise of professional betterment and independent study. Graviar, a mere human born to mere human parents, had his very essence merged with the reptiles from Solva's warmer beaches, forever altering him. Graviar was transformed from man to dragon-man.

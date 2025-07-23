@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Deimos is a half-Drow, half-Elf, sorcerer-warlock agent of [[Unseen]]. He reported directly to [[Ambrose Tenebris]], his adoptive uncle, after Five's brother, his father, died. Five's father, as well as Deimos' brother, [[Phobos Tenebris]], died when Deimos was pushed too far as a child, and summoned forth deadly monsters from beyond. Now, Deimos and Phobos-as-a-shade-reconstruction-of-Phobos live with Five, plotting towards the death of [[Pharasma, the inevitable]].
 
 Once upon a time, Deimos was but a timid boy, playing with his brother Phobos in the comforts of his hometown. One day, Phobos decided to play with a crossbow, pointed it at Deimos, and struck the fear of death into his brother. Stricken with terror, Deimos unwittingly unleashed portals into the Shadowfell, summoning forth vicious monsters from beyond. Phobos, their father, and the rest of their hometown -- massacred in moments. Deimos, alone, survived.

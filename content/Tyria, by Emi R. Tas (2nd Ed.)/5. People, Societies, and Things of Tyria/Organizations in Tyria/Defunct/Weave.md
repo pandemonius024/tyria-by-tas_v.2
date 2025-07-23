@@ -1,5 +1,7 @@
-#ETERNITY
-
+---
+tags:
+  - ETERNITY
+---
 The Weave was an arms dealership and weapons manufacturer based out of the underside of [[Amsa]]. It was originally helmed by the half-Goliath [[Auntie]], a scrawny weapons developer in [[Virgil]], and muscle in [[Dante du Fleur]]. Following a raid by rival gang [[Eternos]] in conjunction with Damian Ashborne's Soldiers of Strife, the Weave succumbed to fatal wounds, leaving only 22 scant survivors. Manetto Donati, sent by Dante in an attempt to defend the Weave, has yet to be found.
 
 In the ETERNITY campaign, the Weave provided intel on Anton Essa's movements, and would ask the party for their help in rescuing Virgil as well. Since Dante was rescued from Eternos by the ETERNITY cast, Auntie and the Weave at large became indebted to the party. They paid this debt by sheltering them from opposition, feeding them, and celebrating their successes with them. At the end of ETERNITY, Agnar had an arm-wrestling contest with Auntie which he wins (thanks in part to Signus' aid), Dante and Virgil finally have a moment to relax, and Qatar Altan is able to submit his spare parts to Virgil for repairs.

@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 An archaeologist-turned-skeleton, Indiana Bones was a scholar of Vinovian origin, whose career was cut short when he was skinned and planted into the earth by a Megaprimatus of [[Dino Park]]. Upon the party of ETERNITY digging up Bones, he simply dismissed his skeletal nature, and joined them.
 
 In life, Bones was friends with Nathan Drake and Laura Croft, both famed archaeologists in their rights. 

@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 The Shadowfell is a former fraction of the [[Prime Material Plane]] that was sent into the depths of [[Tyria]]. The Shadowfell is one of 3 fragments of the Prime Material plane, alongside the Realm of Chaos, and the Material Plane, that was formed as a result of the [[Shattering]]. Its landscape is a weary reflection of the Material; devoid of life, and covered in cavernous scars and ashen mountains. The Shadowfell is a plane cloaked in the [[Dark]], chock full of the sadistic, the bloodthirsty, and many warped, twisted beings. Following the [[Solstice]], the Shadowfell was merged back into the Material Plane, alongside the Realm of Chaos, and brought with it all of the evil and madness that had festered within.
 ## The intricacies of the Shadowfell
 Pre-Solstice, getting into the Shadowfell required a shadow crossing. A shadow crossing is a planar passage, similar to those that send mortals to the Boneyard, typically found in any location whose moral makeup bears resemblance to the Shadowfell: graveyards post-sundown, sites of mass suicide and/or mass graves, humanoid trafficking centers, and crime-ridden alleyways, are all prime candidates of a shadow crossing. 

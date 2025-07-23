@@ -1,5 +1,7 @@
-#ETERNITY
-
+---
+tags:
+  - ETERNITY
+---
 The Soldiers of Strife were an isolated group of knights, who vowed to war under their god, [[Tyrus, the warbringer]]. The Soldiers are Strife are many things: a training ground for merciless killing machines; a brotherhood of tight, rigid norms; an exporter of highly advanced, tactical advisors; the site of [[Agnar Lightbringer]]'s uprising. The history of the Soldiers of Strife is one of posthumous servitude, to a state long-fallen, to a god since departed, and to a treasonous warbishop. 
 
 The Soldiers' roots date back centuries, to the Brudel invasion of the city-state, Hasha. The Soldiers were an army of heavily armored knights, instructed to raid the throne room of King Anton. Tyrus, after landing the killing blow on the King, managed to lead his army out of the resulting temporal bubble before it encased all inhabitants. After confirming that the Brudel were too damaged to recover, and that their enemy had been well and truly annihilated, Tyrus led his men off of Vinovia's sands, and into the mountains of the [[Vardousia Range]]. In his eyes, this war was over, and there would be no home to return to. Outwardly, Tyrus told his men that they needed to flee, to avoid suspicion, and to eventually return to the Brudel.

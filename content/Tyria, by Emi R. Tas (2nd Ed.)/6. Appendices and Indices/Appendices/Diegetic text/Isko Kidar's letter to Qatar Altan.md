@@ -1,5 +1,8 @@
-#ETERNITY #WIP 
-
+---
+tags:
+  - ETERNITY
+  - WIP
+---
 It's been a few years since you've taken the seat of god of the Light and issued a decree to your people: bear your Light across the darkness of the land. At first, you were busy confirming that yes, that is your will, and yes, you are offering your blessing in exchange for foot soldiers. A few followers called you Selûne, though that number's been going down over time. After the people caught on, they *caught on*. Hundreds, maybe even thousands of ardent believers in the Light came to you, beseeching your blessing. So many different kinds of people came forward. Small groups of untrained villagers stepped forth to defend their people against the tides of the Shadowfell; well-armed militias sought out your blessing to bolster their ranks; members of the Ja'Almawt began to make weekly communions with you just to stay in touch; people overseas begged you for your intervention in their own issues and quandaries. Nowadays, your days are filled with the prayers and tithes and humble requests and bargains and pleadings of your blessed followers. All of them seeking your guidance, your power, your divine will. Helping your followers became routine. It became habit.
 
 It was a day, just like any other. The will of the people flowed through you, and you imparted that will upon those who needed it most. Then a prayer came in. It came in as a letter, delivered by a soft white dove. The dove landed softly on your shrine walls, gently cooing into the sharp air until you came by to pick it up. It read:

@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Tags: Enchantment, Magical
 **Price** 8 gp
 **Usage**: Held in 1 hand, as a regular quill; **Bulk** -

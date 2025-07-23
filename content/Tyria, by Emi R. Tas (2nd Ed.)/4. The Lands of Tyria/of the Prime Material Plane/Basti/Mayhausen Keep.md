@@ -1,6 +1,9 @@
-#Dreamwalker #ETERNITY  
-
-Mayhausen Keep (my-house-en) is a castle town built within [[Teardrop Lake]]. The Keep's creation was spearheaded by Sondra of the Moon in the early 300s, who cleared out the area as a pivotal claim in the holy wars of Basti. Mayhausen Keep's storied purpose as a bastion to believers in [[Verdade]] is detailed, through salvaged memos, and paintings strewn about the castle's walls. While the blood of battles ages past have since dried on the castle's foundations, Mayhausen Keep continues to be an epicenter of religious zealotry, and theistic redoubt.
+---
+tags:
+  - Dreamwalker
+  - ETERNITY
+---
+Mayhausen Keep (my-house-en) is a castle town built within [[Teardrop Lake]]. The Keep's creation was spearheaded by Sondra of the Moon in the early 300s, who cleared out the area as a pivotal claim in the holy wars of Basti. Mayhausen Keep's storied purpose as a bastion to believers in [[Lunaris]]' superiority is detailed through salvaged memos and paintings strewn about the castle's walls. While the blood of battles ages past have since dried on the castle's foundations, Mayhausen Keep continues to be an epicenter of religious zealotry, and theistic redoubt.
 ## History
 During the Dreamwalker campaign, Mayhausen Keep operated under a lordship, and was ruled by King Hall and his lineage. Prior to the Dreamwalker campaign, Rox infiltrated and mind-controlled the King, enabling him to operate without intervention from the King's arm.
 

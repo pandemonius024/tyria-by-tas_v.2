@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Tangmazu was a trickster deity from [[Calistria]], who became bored of his life of memories, and sought to play tricks on a fresher realm. Descending unto the Prime Material Plane, Tangmazu fooled with the mortals of Tyria by spreading lies about their gods, assuming the role of an already-untrustworthy wizard, and helping malicious individuals achieve their goals, and sow chaos.
 
 Tangmazu was instrumental in controlling the narrative around the denizens of Calistria in the Material Plane, subtly influencing the stories told about the gods and their relationships, and even spawning a myth about [[Lunaris]] and [[Solaris]] that remains to this day. Tangmazu, early on in his bout for power, began to spread the lie that Lunaris and Solaris were tricked by him to fight endlessly against each other. Tangmazu claimed that the story about the Dancing Sisters went as follows:

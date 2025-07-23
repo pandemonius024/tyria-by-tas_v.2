@@ -1,5 +1,8 @@
-#ETERNITY #SOULREND 
-
+---
+tags:
+  - ETERNITY
+  - SOULREND
+---
 The Realm of Chaos is one of the three fragments of the [[Prime Material Plane]] created after the [[Shattering]]. The Realm of Chaos was flung far away from Tyria's reach, left to bask in the wild influence of space. The Realm of Chaos was gathered back together under the [[Solstice]], after centuries of aberration.
 ## Solstice and the Realm of Chaos
 In the Solsticed timeline, the Realm of Chaos was merged back together with the Material Plane and the Shadowfell, recreating the Prime Material Plane. The effect that the Realm of Chaos has on the Material is primarily focused on the lifeforms of Tyria. Animals across Tyria randomly find themselves evolving into forms previously never seen before. A few successors of the dinosaurs evolve backwards into dinosaurs. A creature fitting the description of Qatar Altan's Rayquaza is spotted in the upper atmosphere. Common plants, herbs, and crops, have a chance to genetically mutate into new, strange variations of the previous plant, with heightened medicinal effects, stranger, worse flavors, or gaining the ability to be farmed in increasingly hostile regions. 

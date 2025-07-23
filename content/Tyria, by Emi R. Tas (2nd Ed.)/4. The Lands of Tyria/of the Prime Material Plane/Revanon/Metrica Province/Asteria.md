@@ -1,5 +1,9 @@
-#ASCENSION #BANE #ETERNITY
-
+---
+tags:
+  - ASCENSION
+  - BANE
+  - ETERNITY
+---
 Asteria is the capital city of the kingdom of [[Revanon]], and a port town connected to wider Tyria. Asteria thrives off of the industry housed there, relying largely on industrial taxes to fund a number of arts foundations and its public services. Asteria, at the time of the Solstice, is without a king, as [[King Radovan]] had just recently passed away without declaring an heir to the throne. This has left Asteria in a state of political turmoil, as every political house present vies for the throne.
 
 While Asteria's gates hang loose for travelers, immigrants, and villagers seeking better lives and fortune, its walls are war-ready and tall. The sheer face of Asteria's outer walls resist scaling, hang too high for siege ladders, and are constructed with such an abundance of stone that mere catapulting has proven useless. Said to have been graced with the hands of [[Dwarves]] early in its life, Asteria's walls are fortified enough to dissuade any marauding army from attempting siege.

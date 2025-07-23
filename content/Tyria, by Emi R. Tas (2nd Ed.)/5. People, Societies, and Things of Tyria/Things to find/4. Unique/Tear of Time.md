@@ -1,5 +1,7 @@
-#ETERNITY
-
+---
+tags:
+  - ETERNITY
+---
 The Tear of Time is a shard of crystalline [[Luminiferous Aether]], shed by [[Tyria]] while she wept over the bodies of her dead children. The Tear of Time was summoned to [[King Anton]]'s location in Hasha's throne room, in his desperate bid to save his citizens from the neighboring Brudel. In the beginning of ETERNITY, the Tear of Time would eventually be picked up by one [[Anton Essa]], under direction from Tangmazu, the trickster.
 
 The Tear of Time fell from Tyria's cheek, and through the annals of time into King Anton's hands. Seconds before his death at Tyrus Terim's blade, Soultaker, Time manifested in his hand, and granted him his singular wish for safety for his citizens. The Tear of Time locked Hasha's inner walls in perpetual festivities, her citizens blissfully unaware of the fate that had met them. Past the outer walls, the peasantry and foot soldiers were locked in eternal siege, ghosts made to suffer their cataclysm for eternity.

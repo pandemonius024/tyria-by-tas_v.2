@@ -1,5 +1,8 @@
-#ETERNITY #WIP 
-
+---
+tags:
+  - ETERNITY
+  - WIP
+---
 [[Lunaris]]
 
 Solaris is worshipped deeply, separate from her sister, in [[Dawnguard]], where its central castle, the Spiral Castle, stands in worship. It is meant to symbolize the circuitous path of Solaris in the sky, and hopes to symbolize her eventual dominance as the sole celestial body above.

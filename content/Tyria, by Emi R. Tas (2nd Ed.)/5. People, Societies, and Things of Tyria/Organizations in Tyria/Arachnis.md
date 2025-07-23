@@ -1,5 +1,7 @@
-#ETERNITY
-
+---
+tags:
+  - ETERNITY
+---
 Arachnis is a splinter group formed from the remnants of the [[Weave]] after the Weave's destruction by [[Eternos]]. Arachnis was founded by [[Nero du Fleur-Donati]], the adopted son of the Weave's explosives and alchemical expert, Dante du Fleur. Arachnis fills in the gap that the Weave's death left in underside [[Amsa]]. The "weave", for which the former gang was named, was an intractable network of laypeople who served as the eyes and ears of the Weave. Arachnis, immediately following the Solstice, worked towards the recreation of that soft power that the Weave held. By investing coin into local underground business, lending favors with a promise not to cash them, aiding the Amsan civil guard in the defense against the encroaching Shadowfell, and generally building trust in the locals, Arachnis aims to reclaim what the Weave lost.
 
 > *"Arachnis. The spider that comes for revenge after finding its home destroyed."* 

@@ -1,5 +1,7 @@
-#SUNDER 
-
+---
+tags:
+  - SUNDER
+---
 Ashton is a rabbitfolk ranger, currently situated in [[Amsa]], as a civil servant. He is the eldest rabbitfolk of 15 children, which includes 11 younger brothers and 3 younger sisters. His parents ran a small restaurant named the *Leaping Hare*, and as 7th division head of the Amsan civil guard, Ashton earned a simple living alongside his parents.
 
 One day, Ashton's parents fell inexplicably ill, making Ashton the primary breadwinner in the family. Stressed and desperate for a solution, Ashton traveled to La Escuela de la Montanha, and met [[1]]. I (i) gifted a peculiar potion to Ashton, who unquestioningly gave it to his parents. This potion seemed to cure his parents of their ailment, but not permanently. There were hours and days where it seemed like no progress had ever been made, and they were yet ailed by their disease. 

@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Tyrus Terim is the former god of war, patron of the [[Soldiers of Strife]], and wildlife foraging devotee. Tyrus has tan, leathery skin, peppered with sun spots due to his tenure in Vinovia. He sports long, greying hair, a deeply toned physique, and minimal clothing to highlight it all.
 
 Tyrus rose to power early on in Tyria's history, as a military leader of the [[Brudel]]. Upon the Brudel's invasion of the city-state Hasha, Tyrus landed the would-be killing blow on [[King Anton]], forcing Anton cry out in desperation, mustering the Tear of Time. This event would lock Hasha, and the Brudel invaders outside of the throne room in eternal, looped siege. Tyrus' blade, now known as the [[Blade of Eternity]], found its way into King Anton's chest regardless. Despite the temporal bubble forming around Hasha, Tyrus managed to leave the city, anyway.

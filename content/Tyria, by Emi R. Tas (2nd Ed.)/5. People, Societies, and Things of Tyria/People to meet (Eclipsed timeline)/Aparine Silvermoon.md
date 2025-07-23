@@ -1,5 +1,7 @@
-#SOULREND 
-
+---
+tags:
+  - SOULREND
+---
 Aparine Silvermoon is the golden child of [[Gladius Silvermoon]] and [[Rubia Silvermoon]]. Aparine was raised from birth to be [[Lunti]]'s future leader, and fit the role well. From a young age, Aparine chastised [[Selene Silvermoon]] first for her lackadaisically, then later for her medical malpractices. Aparine chooses to work by the books whenever possible, using pamphlets on racism and work safety protocol to spread the law. Aparine is well-trained in battle tactics, and uses her natural calling as a leader to guide the flow of combat, and above all else, protect her allies. Aparine was left behind in the Eclipsed timeline when the rest of the SOULREND party decided to depart for the Solsticed timeline.
 
 In the SOULREND campaign, Selene gets displaced through a dimensional portal leaving away from the Moon, and back to the earth below. Selene, wishing for home, ends up getting transported to Lunti, where she knocks into Aparine, who is then thrust through the portal. Aparine joined the party near Tyria's Root, where she helps them traverse the cursed forest, and the heart of the Vardousia Range.

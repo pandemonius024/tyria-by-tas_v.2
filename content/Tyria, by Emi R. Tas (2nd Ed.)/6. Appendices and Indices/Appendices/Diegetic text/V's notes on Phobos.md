@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 *[[Ambrose Tenebris]] has taken extensive notes on [[Phobos Tenebris]] after the incident that killed the original [[Deimos Tenebris]]. The file itself has Phobos' name printed on it; Deimos is handwritten next to it. Here are a few choice excerpts:*
 
 Caspiri (Nov), 3rd Glacio (Tue) of 603, under the Autumnal moon:

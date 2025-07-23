@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Auntie was a half-Goliath, half-Human leader of the now-defunct [[Weave]]. Auntie was born in the frigid northern realm of [[Sa'en Mawqi]], where she gained much of her ferocity and brutish strength. Wishing for a better life, Auntie would join a caravan that made rounds about Revanon, eventually dropping off at Asteria. There, Auntie heard rumors of a gambling haven in [[Amsa]], and made for Amsa to make a living for her and her family as muscle for casinos. In Amsa, Auntie worked her way into infamy as an armed guard of Amsan casinos, gaining a reputation as being brutally capable, with a keen eye for troublemakers.
 
 Things would turn south rapidly following her first year as hired muscle. She would at once, learn of her family's death in the northern realms, and a threat to her current employers: a religious sect named Eternos. Eternos, damning gambling as a sinful practice, identified Auntie as one of many "symptoms of a sickness" in Amsa, and began to harass her -- and her employer. The casino for which she worked to defend, cut her off the moment things got sour.

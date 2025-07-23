@@ -1,6 +1,8 @@
-#ETERNITY
-
-God of the [[Light]], successor of [[Selûne, the enervate]], now-resident of [[Calistria]]. Qatar Altan was once a [[Kalashtar]] Druid, channeling the powers of the Light through his [[Hands of the Covenant]], growing to commanding those powers bare without aid, to eventually channeling the Light through a reconstructed rifle, the [[Iris of Foh]]. After choosing to meet with his father at a certain point in the SOLSTICE campaign, Qatar learned of his destined ascension to god of the Light, and supplanted Selûne willingly. 
+---
+tags:
+  - ETERNITY
+---
+God of the [[Light]], successor of [[Selûne, the enervate]], now-resident of [[Calistria]]. Qatar Altan was once a [[Kalashtar]] Druid, channeling the powers of the Light through his [[Hands of the Covenant]], growing to commanding those powers bare without aid, to eventually channeling the Light through a reconstructed Hashan rifle, the Iris of Foh. After choosing to meet with his father at a certain point in the SOLSTICE campaign, Qatar learned of his destined ascension to god of the Light, and supplanted Selûne willingly. 
 
 In mortal life, Qatar was born and raised into the [[Ja'Almawt]], one of the tribes of Vinovia, who pursue a nomadic life following the footsteps of their savior, [[Isko Kidar]]. Qatar was raised by two parents: Isko, under the name "Loid Altan", and Akilah Altan. While Qatar was growing up, Loid trained Qatar in the ways of the Ja'Almawt, teaching him how to use his telepathic powers, and how to channel them well. One day, Loid told him that both Loid and him were Kalashtar, a union between the astral plane and human, one formed by their ancestors many years ago. This was not the whole truth.
 
@@ -14,7 +16,7 @@ In the course of adventuring across Vinovia with the party of ETERNITY, Qatar wo
 
 After enjoying freedom from Lex Lutetia, Qatar ventured into the depths of Mor Proxima with ETERNITY, discovering an ancient city of ruin, seemingly in worship of the Light. It was there that Qatar found Loid's old adventuring journal, which noted the struggles of his journey, and contained a memento from a woman from Loid's past. Qatar would eventually return the journal to Loid, before he entered into the Shattered wasteland to achieve ascension.
 
-Qatar learned the truth behind his lineage and destiny incredibly quickly before confronting with it. After deciding to seek out his father following a venture into [[Axis]] of the Shadowfell, Qatar was informed of the nature of his birth. Isko, or Loid, seeing that the fate of Tyria is imbalanced, told Qatar that he was the destined heir to the Light, as Selûne's divine blood had been tainted by mortal flesh. Qatar took this in stride, recognizing that his time as a mortal on Tyria was limited. He entrusted Isko with his pets, Rayquaza, Rowlett, Tyranitar, Aerodactyl, and (others I'm sure). He gave his well-wishes to his tribe, to his adoptive mother, and a lonesome goodbye to his former partner, [[Fatima]]. 
+Qatar learned the truth behind his lineage and destiny incredibly quickly before confronting with it. After deciding to seek out his father following a venture into [[Axis]] of the Shadowfell, Qatar was informed of the nature of his birth. Isko, or Loid, seeing that the fate of Tyria is imbalanced, told Qatar that he was the destined heir to the Light, as Selûne's divine blood had been tainted by mortal flesh. Qatar took this in stride, recognizing that his time as a mortal on Tyria was limited. He entrusted Isko with his pets, Rayquaza, Rowlett, Tyranitar, Aerodactyl, and (others I'm sure). He gave his well-wishes to his tribe, to his adoptive mother, and a lonesome goodbye to his partner, [[Fatima]]. 
 
 Across the portal which Isko fashioned, Qatar would find the embodiment of Tyria, and prepared to give himself to the Light which she summoned, before [[Tangmazu, the trickster]], interrupted the procession. Qatar, with the party that he had traveled with up to that point, defeated Tangmazu, allowing Qatar to ascend to godhood. He shared tender goodbyes with the comrades he had fought alongside, before taking his place as heir to the Light.
 

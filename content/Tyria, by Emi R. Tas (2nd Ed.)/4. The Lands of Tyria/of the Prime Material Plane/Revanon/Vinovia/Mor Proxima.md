@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Mor Proxima refers to both the ruins of an ancient early [[Humans|human]] city, and the present-dwelling of humans aboveground. Mor Proxima, the current city, is constructed haphazardly close to an enormous, 100+ acre quarry. Mor Proxima, the ruins, are situated at the bottom of this quarry, in a network of caves containing the first known humans, and first known worshippers of the [[Light]].
 
 In the course of ETERNITY, the party delve into Mor Proxima following a trail left by Anton Essa. There, Qatar Altan discovers a notebook and bag left behind by Isko Kidar, acting as Loid Altan. In the notebook, Qatar learns about the troubles Loid encountered on the sands, and a memento from Akilah, Qatar's adoptive mother.

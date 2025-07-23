@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 *Wondrous Item (uncommon)*
 
 A spellcasting focus unique to devotees of the [[Light]]. 

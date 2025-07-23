@@ -1,1 +1,9 @@
+---
+tags:
+  - ETERNITY
+  - BANE
+  - AFTERSHOCK
+  - SOULREND
+  - ASCENSION
+---
 Metrica Province, or simply Metrica, is a stretch of grassy, rolling hills and rushing rapids in western [[Revanon]]. Its borders stretches from the eastern reaches of the Vardousia Range, down towards F'mdell, and westwards along the Vasiliča Range, then upwards along the Nemru Lowlands. Metrica is home to Asteria, the capital of the kingdom of Revanon, alongside its numerous towns, villages, and isolated wizards' towers. 

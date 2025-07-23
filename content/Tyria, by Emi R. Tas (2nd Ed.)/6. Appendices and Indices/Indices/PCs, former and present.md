@@ -1,7 +1,7 @@
 # howdy!
-The following is a linked list of PCs, former and present, that have existed at some point at time in Tyria, organized by campaign appearance.
+The following is a linked list of PCs, former and present, that have existed at some point at time in Tyria, organized by campaign appearance. If your character does not appear, or you have some information about your character that you'd like to share with me, please msg me @frogwithgrapesonhead on Discord. 
 
-One-shot characters (generally non-canon):
+One-shots:
 - Kieron's Tower
 	- Vladimir (Communist dwarf)
 - The Hell one-shot
@@ -60,7 +60,6 @@ Dreamwalker (Doan's campaign):
 SUNDER:
 - [[Arthas]] (Half-elf warlock hexblade)
 - [[JACKAL]] (Warforged system of 3)
-	- JKL = joey, kieran, leo
 	- 3 consciousnesses inside of it: Jack, Lazarus, and Aurelius (JK&L respectively)
 - [[Cradeyr]] (Half-high elf artificer)
-- [[Ashton]]
+- [[Ashton]] (rabbitfolk ranger)

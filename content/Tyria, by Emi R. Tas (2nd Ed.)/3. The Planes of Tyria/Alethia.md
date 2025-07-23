@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Alethia is [[Pharasma, the inevitable]]'s domain of death, and the destination of dead who have not earned passage into [[Celestia]]. Alethia is cut out of the [[Luminiferous Aether]] in an area where Tyria's eyes cannot grace them. The only denizens of Alethia are the [[Forgotten]], washed of their memories, or soon-to-be-Forgotten, still standing at the river Lethe, allowed to wait as long as they like before washing themselves of their memories, and re-entering the Aether.
 
 Scattered all around the Palace, are the Forgotten, wisps and ghosts that litter the palace grounds. The grand majority of Forgotten are returned into the Aether for resurrection by the river Phlegethon. A select few Forgotten are kept behind by Pharasma as aides and attendees, sprucing up the Palace, and keeping it populated enough for Pharasma to not feel so alone.

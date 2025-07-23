@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Erdogan Eilric is a half-elf half-human sorcerer, who would, weeks after his run-in with the party of ETERNITY, commit himself to a pact under [[Cassandra Lumen]]. Erdogan is a scholar of [[La Escuela de la Montanha]], who used the resources available to him to research the history and chemical properties of a particular genus of leaves gifted to him by ETERNITY. Erdogan came across ETERNITY in [[Kilhan]] in his traveling hut; he initially approached the party believing Signus to be a different Tabaxi named Orsos. After briefly clearing up the confusion, Erdogan was gifted a small bundle of dried leaves.
 
 Erdogan has since managed to cultivate the dried leaves that were gifted to him, successfully planting them, and growing new shoots from the earth. Erdogan discovered that the leaves impart a bitter, nutty aroma into water when boiled, and later discovered that the resulting leaf-water has stimulating properties. He would later note that, following drinking the leaf-water, is a "period of restlessness -- not of anxiety, but literal. Without rest."

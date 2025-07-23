@@ -1,5 +1,8 @@
-#ETERNITY #Dreamwalker 
-
+---
+tags:
+  - ETERNITY
+  - Dreamwalker
+---
 Amsa is a mechanical city whose 6 mechanical legs take it across [[Vinovia]]. It is surrounded, at all times, by a mirage which renders the city invisible to onlookers more than a half mile away. Compasses that have been specifically tuned to Amsa's aetheric signature can be used to navigate to Amsa from beyond this mirage. Amsan compasses are tuned to the aetheric signature of the heart of [[Etris]], a source of raw magic harvested from the ex-god of wind. Ferry services exist across Vinovia, operating most notably in Agrizi and Valentia, who offer safe passage into Amsa at a cost. These ferrymen are often operated by the casinos, cartels, weapons' dealers, and any other group that has a vested interest in pulling more bodies into Amsa. Using the heart of Etris, Amsa's sole remaining creator, [[Pye, the begotten]], can navigate the sands at will.
 ## History
 Originally constructed by the patron of knowledge, [[Cassandra Lumen]], an enigmatic Dhampir artificer, Pye, the begotten, and ex-anthropologist Aviria, Amsa was a walking hovel used as base-camp for the team's surveying. Amsa initially grew famous as an oasis that would spontaneously appear to those lost in the desert, and stories of the gracious engineers who operated it spread like sand on wind. As interest in this walking oasis grew, more types of folk came to see it: artificers interested in the machinery; desperate folk searching for safe harbor; archaeologists looking to join the fray. Some would dedicate themselves to the cause, while others remained by necessity.
@@ -12,7 +15,7 @@ New building proposals, and all material imports, must provide a weight and inte
 ## Societal structures
 Amsa's isolated nature makes it an ideal city of vice, and its disconnect from Revanon's greater society makes it a safe haven for all sorts of unsavory folk. The physical divide between topside and underside Amsa corresponds to a social divide between the two sets of citizens. Topside Amsa is largely populated by eccentric artificers; shopkeepers peddling mechanical-technological wares; casino operators and high-rollers; elites enjoying a desert vacation; and other particularly wealthy citizens. Underside Amsa is largely populated by the mass of workers who've been tasked with keeping the place running; refugees, once seeking safe harbor, now with no place to turn; drug, gambling addicts; people lauded with steep debts to any number of Amsa's criminal underbelly; Amsa's criminal underbelly. 
 
-Amsa, politically, was divided into 5 parts: allegiance to [[Eternos]], the [[Outfit]], the [[Weave]], the [[Thieves Guild]], or to Amsa's government itself. Citizens in underside Amsa were forced, in one way or another, to participate in 1 of the 4 gangs, for protection, for money, or for safety. Citizens in topside Amsa were largely ushered under the wing of Amsa's official civil guard, who labor to upkeep Amsa's status quo.
+Amsa, politically, was divided into 5 parts: allegiance to [[Eternos]], the [[Outfit]], the [[Weave]], the local Thieves' Guild chapter, or to Amsa's government itself. Citizens in underside Amsa were forced, in one way or another, to participate in 1 of the 4 gangs, for protection, for money, or for safety. Citizens in topside Amsa were largely ushered under the wing of Amsa's official civil guard, who labor to upkeep Amsa's status quo.
 
 Following the Weave's destruction of the Outfit in the course of ETERNITY, and Dante's bombing of Eternos' HQ (and the surrounding area) during SOLSTICE, the power structures within underside Amsa have all but fallen to bits. In response, the Amsan civil guard has ramped up its efforts in quashing the underside, and begun anxiously policing her citizens.
 

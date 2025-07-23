@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - BANE
+---
 The Tower of Magic is a constantly fluctuating mess of chaotic energy, located vaguely in southern [[Metrica Province]]. The Tower of Magic was once an educational institute, focused on the honing of already-present magical capabilities of its students, into a more refined, and controlled state. When the Tower of Magic suddenly disappeared into the [[Realm of Chaos]], all of its students, instructors, and staff within at the time were thrust into the Realm. 
 
 Following the [[Solstice]], the Tower of Magic was retrieved from the Realm of Chaos after nearly 10 years of baking within. This resulted in fundamentally altering effects on both the tower itself, and those who were caught in it. A list of observed changes: the Tower's visible (unconfirmed, physical) form and location fluctuates at an unpredictable frequency; the apparent abject loss of sapience of all of its denizens; a profoundly dangerous "zone of chaos" around it, a 10-50ft. radius area within which Chaos itself appears to reign; the occasional production of normal-seeming cats; and the production of harmful projectiles, aimed at random.

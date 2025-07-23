@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Death's Door is an infirmary and sanctuary operating out of the underside of [[Amsa]], with the express purpose of housing those harmed by gang violence. The sanctuary was founded in late 635 AS by the twins, [[Deimos Tenebris]] and [[Phobos Tenebris]], under funding and supervision from their uncle and guardian, [[Ambrose Tenebris]]. As a front, Death's Door operates a moderately-successful, unprofitable funeral home. Death's Door's mission statement is to commit to the sheltering and defense of those displaced or otherwise harmed by the violence enacted by Eternos, Arachnis, or by the Amsan city guard. Death's Door postures as a watchdog of all 3 participants, levying witnesses of the legal and ethical crimes committed by any of the constituent gangs of Amsa (civil, included). Death's Door requests nothing from their asylum-seekers, in exchange for amnesty and protection.
 ## Services offered
 Death's Door as a funeral home offers Amsa's denizens discounted funerary costs, but only insofar as embalming and cremation (burial space is... limited, on Amsa). Death's Door's primary building space is constructed about a central viewing area, decorated with memorabilia of a religious affect, offering customers a place of gathering in their time of mourning. Death's Door additionally offers their customers, "ethical long term management of the deceased". When asked for details on this service, the twins declined a statement.

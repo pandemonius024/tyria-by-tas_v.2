@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 The Void is a plane of Tyria from which nothing may return. Entrance into the Void is nothing, but a guarantee of eternal lockage away from all else that exists. All matter in the Void is slowly, undeniably, disintegrated into the nothingness of the Void. Matter is dissolved into the Void at a rate inversely proportional with the density, and total mass, of the object in question. 100 lbs. of flat, separated paper will disintegrate faster than a 100 lbs. ball of lead. It takes orders of magnitude more time for a creature to disintegrate, than it is to suffocate to death.
 
 [[Dante du Fleur]] managed to enter the Void following his request for such of Tyria. Tyria, hearing his call, agreed to thrust him into the Void with [[Eternity]], where both remain. Dante, not requiring water, food, or even air, is damned to lifetimes spent in the Void; floating in space, aimless, without recourse. Eternity, even, is doomed to slowly radiate its energies into the Void, until time leaves it a useless rock, then a smattering of dust.

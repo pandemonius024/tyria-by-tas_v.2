@@ -1,5 +1,7 @@
-#ETERNITY 
-
+---
+tags:
+  - ETERNITY
+---
 Ambrose Tenebris is the uncle and adoptive guardian of [[Deimos Tenebris]] and [[Phobos Tenebris]], and acted under the pseudonym Ambrose Ackner during his tenure as Five in the [[Unseen]]. Following the destruction of his hometown by Deimos' shade portals, Ambrose would swiftly step in to shelter Deimos and the shadow of Phobos. Ambrose used his position in leadership in the Unseen to tacitly give Deimos and Phobos an in into the organization. This setup gave Ambrose the excuse to task Moira Rosenbaum with overwatch over Deimos, to ensure such a catastrophe never happened again.
 
 Ambrose, acting as Five, was instrumental in Phobos' reformation into Deimos. Using his position as Five, Ambrose accessed texts and instruction detailing the process needed to mend Deimos' shattered soul with Phobos' shadow. Near La Escuela de la Montanha, Five brought Deimos and Phobos together in the shade of a graveyard, incanted Phobos into Deimos, and kept watch over Deimos during his recovery.

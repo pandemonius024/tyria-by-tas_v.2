@@ -1,3 +1,8 @@
+---
+tags:
+  - ASCENSION
+  - SUNDER
+---
 Shay Servius is a prominent member of the Black Rose, who has gained infamy and prestige in his conflict with [[Rox]]. Shay's investigation into the [[Unseen]]'s involvement in Solvan politics led him to Brisban, where one Sophia Atkinson was suspected to be involved with the Unseen. Shay would turn to the party of REAVE for assistance in this endeavor, before ultimately coming across one of REAVE's antagonists, Rox. Following a successful diversion created by one mind-controlled Aux Chord, Shay was abducted by Rox, only to be released following his avowed disinvolvement with Rox' business.
 
 In the SUNDER campaign, Shay made a reappearance, crossing paths with the SUNDER party. Shay stated that he was pursuing a hit drafted on Sophia Atkinson, and alleged that the person who called the hit was tied to the Unseen. SUNDER, siding with Shay, began work under the Black Rose in the pursuit of, and defense against, the Unseen.

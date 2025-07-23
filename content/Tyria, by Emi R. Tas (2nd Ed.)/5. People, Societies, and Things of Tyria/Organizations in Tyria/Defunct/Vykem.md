@@ -1,5 +1,7 @@
-#Dreamwalker 
-
+---
+tags:
+  - Dreamwalker
+---
 The Vykem, or Wykin while [[Manahaze|Manahazed]], were the once-brainwashed servants of [[Rox]] who eventually liberated themselves from Rox' control. As servants of Rox, they were known to themselves as the branded, and to others as the Wykin. As freed slaves fighting to take back Basti from the "blind man", they were known solely, as Vykem.
 
 During the Dreamwalker campaign, various members of the liberated Vykem came into contact with the Dreamwalkers. The Vykem, aware of Manahaze, and the Dreamwalker's current state, took up different approaches to interacting with the party. Some Vykem, like Mael and Dimo, assumed the Dreamwalkers to be too far gone to bother trying to crack, while some Vykem like Psvedai and Eros were much more patient, and earned the party's trust. No matter the interactions with the party, the Vykem remained steadfast in their opposition to Rox, come hell or high water.

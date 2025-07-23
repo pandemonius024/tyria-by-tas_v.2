@@ -1,3 +1,7 @@
+---
+tags:
+  - ETERNITY
+---
 E'Valengues (Eh-val-ehn-geh), lit. Elvish, "the valued", is a region of [[Revanon]] defined on the north by the Vasiliča Range, sweeping south towards the Unending Sea. It is a region of land sprawling with woodland life, and the domineering canopies that they live within. The few forces capable of thinning the ancient woods of E'Valengues are the ocean, the Vasiliča Range, the rivers carving up the landscape, and E'Lenora. Any Elves who settle this land, E'Lenorans excepted, take great pains to settle around and aside the trees, a practice which can be traced down along the Eclipsed timeline, and over the sea, to Lunti. 
 
 In the Eclipsed timeline, a grave portion of E'Valengues withers and dies, following untreated root rot stemming from Tyria's Root. Following its rapid entrance into the Root, Chaos' influence spread unburdened for over a hundred years, before being brought to an end by the SOULREND party. Any elven presence had since withered alongside the millennium trees.

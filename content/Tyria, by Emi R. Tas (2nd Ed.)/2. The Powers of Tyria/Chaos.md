@@ -1,5 +1,7 @@
-#ETERNITY #SOULREND
-
+---
+tags:
+  - SOULREND
+---
 Chaos is the name assigned to the nebulous force of random chance from the [[Realm of Chaos]]. Not much is known about Chaos, and the precise extent to which Chaos influences, is unknowable.
 
 In the Eclipsed timeline, Chaos takes [[Signus]], driving Signus, improbabilistically, to try and dominate the [[Material Plane]].

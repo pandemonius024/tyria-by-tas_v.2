@@ -1,10 +1,6 @@
-#ETERNITY #WIP 
-
-Mania 
-
-[[Axis]]
-[[E'Lenora]]
-mind controlling nonsense
-[[Dimitri]]
-
-established wartime counselor in [[Hasha]]
+---
+tags:
+  - ETERNITY
+  - WIP
+---
+Mania is the ruler and creator of [[Axis]], and the [[Axiomites]].
