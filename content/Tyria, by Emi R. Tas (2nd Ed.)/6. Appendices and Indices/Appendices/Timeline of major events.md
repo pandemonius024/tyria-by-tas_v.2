@@ -1,3 +1,6 @@
+---
+tags:
+---
 Tyria's history is one interwoven, wrangled across thousands upon thousands of lives, and events, and conflicts, and phenomena. Any dates provided will use the indexing convention "AS", or "after [[Shattering]]", or "BS", "before Shattering". The following is a timeline of established, canonical events organized by era, and listed chronologically:
 ### Age of Creation (pre-history)
 Tyria's prehistoric events are widely spread, and individual events can take place centuries, or more apart. While most-all evidence for the ordering of the following events come from wall paintings and prophecy, the vision Dante du Fleur received before being ejected to the Void suggests that there is some truth to these legends.

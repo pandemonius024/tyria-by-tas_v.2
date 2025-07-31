@@ -1,1 +1,4 @@
+---
+tags:
+---
 The Nemru Lowlands are an expanse in central [[Revanon]] of arid badlands that connects Metrica Province to greater Vinovia. Determining the physical borders of the badlands, the rolling hills, and the desert is difficult, as the terrain slowly shifts from grass to sand within the Lowlands. The only consistent feature of the Lowlands are a lack of water, and an abundance of tumbleweed.

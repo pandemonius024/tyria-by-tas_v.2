@@ -1,6 +1,0 @@
-Poised between the worlds of the living and the dead, dhampirs have a tenuous grip on life while being endlessly tested by their hunger. Dhampirs are the result of a union between a vampire and a mortal creature. Their ties to a vampire grant dhampirs a taste of the vampire's deathless powers, in the form of increased speed, deeply enhanced vision, and a life-draining bite; their ties to a mortal grant dhampirs freedom from many of the drawbacks of being a vampire, including tolerating the gaze of the [[Light]]. While vampires can necessarily turn mortals into more vampires, dhampirs can only turn mortals into dead mortals. It is unknown if a vampire can turn a dhampir.
-
-The bloodthirsty nature of the dhampir forces them to seek refuge outside of contemporary civilization. They are thrust from society and endlessly vilified, and often find themselves joining the occult, the hidden, and the outcast. Some seek danger, personifying the monsters society casts them as; others pursue revenge against their vampiric parent. Others still embrace the solitude of their lives, distancing themselves, and protecting others from their hunger.
-## Notable Dhampir
-- [[Dante du Fleur]] was turned into a dhampir by [[Manetto Donati]] after Dante was banished into a permanent state of unlife.
-- [[Pye, the begotten]] is the reigning owner of [[Amsa]], and notably a dhampir.

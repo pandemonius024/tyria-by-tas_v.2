@@ -1,3 +1,6 @@
+---
+tags:
+---
 Tyria's gifts are spontaneous events, in which a non-illusory, physical change in the landscape occurs near groups or individuals facing a critical impasse, severe injury, or death. Tyria's gift typically takes the form of: an unexpected small body of water, found in passing; a beam of light, either from the sky, or reflected off of nearby surfaces, blinding the foe of Tyria's chosen; a bundle of medicinal plants, typically falling directly on an individual who needs it most. 
 
 Critics argue that the unverifiable nature of these natural occurrences discredits the possibility that these are "gifts from god", but rather, a confluence of survivorship bias, and a general inclination towards religious stories. Popular arguments against the validity of Tyria's gifts state that individuals who are lucky enough to find the exact thing that they need, in their moment of need, are expected. While 90 out of a 100 travelers perish in the deadly sandstorms of [[Vinovia]], the survival of 10 out of 100 is mere chance; the fact that 1 out of those 100 stumble across an oasis, is also statistically viable. 

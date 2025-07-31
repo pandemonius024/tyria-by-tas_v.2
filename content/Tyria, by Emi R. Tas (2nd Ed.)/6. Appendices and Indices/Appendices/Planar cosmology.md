@@ -1,3 +1,6 @@
+---
+tags:
+---
 The current model of planar cosmology structures the planes in two sets of concentric spheres known as: the Inner Sphere Planes, and the Outer Sphere Planes. In general, the Inner Sphere is where mortals cycle through life and death, and the Outer Sphere is where immortal facets of existence influence the rest of the planes.
 
 The planes are a series of realms that are, at places, physically connected to one another, and at other places, loosely bounded. For example, one may be able to climb a particularly well-rooted tree to travel from the Plane of Water to the Plane of Earth. Conversely, one would find it rather difficult to walk from Celestia to Alethia. 

@@ -1,6 +1,0 @@
----
-tags:
-  - SOULREND
-  - WIP
----
-Gladius Silvermoon is the father of [[Selene Silvermoon]] and [[Aparine Silvermoon]], and widower to [[Rubia Silvermoon]]. He is the leader-elect of [[Lunti]], the head of their counsel, the Gawin. Gladius has elevated and clarified the roles of the Gawin and the Tawod, bringing much-needed governance to a Lunti that was disheveled, disorganized, and still reeling from the Eclipse. 

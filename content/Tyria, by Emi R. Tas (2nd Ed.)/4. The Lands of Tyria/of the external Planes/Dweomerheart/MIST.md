@@ -1,3 +1,6 @@
+---
+tags:
+---
 MIST, or the Meridian Institute of Standards and Technology is a central repository in [[Dweomerheart]] founded by [[Cassandra Lumen]]. MIST contains one, preserved copy of every singular item that Lumen and her team are able to get their hands on. MIST is staffed by a relatively light crew dedicated to the accretion, preservation, and the security of its contents. Over the decades of MIST's operation, MIST has managed to procure a sample of most every naturally occurring mineral, a dried sample of most every flora, a sample of all products regularly traded across major ports (paper, steel, bastilite), vials of droplets of every commonly occurring liquid, every seed currently and previously existing on the Material, and a select number of complete skeletons. 
 
 Most new entries into MIST are sourced either from individually generous donors, or new entries into longitudinal climate studies. Plane-shaping events, however, yet surface new targets of MIST's preservation. Following the Solstice, MIST has seen a substantial increase in novel samples, and have turned their attention to these newly-available goods; shadow-tinted minerals, and a vial of physical, essence of shadow number among those novelties.

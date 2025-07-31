@@ -1,3 +1,6 @@
+---
+tags:
+---
 # howdy!
 The following is a linked list of PCs, former and present, that have existed at some point at time in Tyria, organized by campaign appearance. If your character does not appear, or you have some information about your character that you'd like to share with me, please msg me @frogwithgrapesonhead on Discord. 
 

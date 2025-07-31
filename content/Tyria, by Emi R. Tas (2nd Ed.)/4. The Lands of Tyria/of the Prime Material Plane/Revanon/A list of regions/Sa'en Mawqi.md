@@ -1,3 +1,6 @@
+---
+tags:
+---
 Sa'en Mawqi (sah'-ehn maw-kee), lit. Vinovian, "cold place", is a region of [[Revanon]] defined by the northern side of the Vardousia Range. It is a frigid tundra, with the coldest parts of the static portions of the terrain falling below -20 deg C. It is a region hostile to all forms of life, and as such is hardly settled. The sandy earth of Revanon turns slowly into ice floes as one pushes further north in Sa'en Mawqi, until there is nothing left but icebergs and frigid water.
 
 The dominant and defining life forms of Sa'en Mawqi are the sealbears, a combination between seals and snow bears that appeared as a result of the Solstice. Prior to, and alongside the sealbears, are a combination of seals and snow bears. Seals survive Sa'en Mawqi by developing thick layers of fat to insulate themselves, a sheer, oily skin to enable diving for fish, and a keen eye for snow bears hiding in the frost. Snow bears survive off of a similar cadence of life, but these days they also subsist on the occasional lackadaisical adventurer. The combination seal and snow bear has resulted in a seal adorned with hydrophobic, oiled fur, granting it moderate camouflage in the tundra. The sealbear also boasts the claws of a snow bear, enabling it to stand its ground against its snow bear counterparts, challenging the snow bear's dominance.

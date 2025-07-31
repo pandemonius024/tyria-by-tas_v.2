@@ -1,3 +1,6 @@
+---
+tags:
+---
 A lakeside city, located on eastern [[Solva]], Vin Arbor is a humble logging village. It is often described as one of, if not *the* most beautiful city in Solva. Its mayor is Cassius Clay.
 
 From Callum, of the Black Rose:

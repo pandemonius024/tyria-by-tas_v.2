@@ -1,3 +1,6 @@
+---
+tags:
+---
 # howdy!
 The following is a list of planes considered to be in the "Inner Sphere", as per planar cosmology:
 - [[Prime Material Plane]]

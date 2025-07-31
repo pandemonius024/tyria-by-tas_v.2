@@ -1,3 +1,7 @@
+---
+tags:
+  - ETERNITY
+---
 # Soldiers of Strife
 The [[Soldiers of Strife]] is a military organization that is not formally part of any country, city state, or municipality. They operate extrajudicially within the Vardousia Range. Candidate Soldiers are often selected at a young age, taken through a grueling training process, and made to embody the harsh, conformist code that Soldiers have become expected to follow. The Soldiers themselves do not often appear in military combat, but are instead dispensed amongst militaristic nations, often taking on positions of strategic and tactical import within those nations' armies. If a unit, during their initial training phase, is deemed eligible for national exporting, is given a training regime that emphasizes language, cultural, and training skills working with foreign troops. Historical recounts of Soldiers' influence in nations and city states date as far back as 63 AG, in the Brudel's warbishop, Shay Thomas.
 

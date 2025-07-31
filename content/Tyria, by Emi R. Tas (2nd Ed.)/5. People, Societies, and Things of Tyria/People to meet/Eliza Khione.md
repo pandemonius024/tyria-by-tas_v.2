@@ -1,5 +1,0 @@
----
-tags:
-  - SOULREND
----
-Eliza Khione was a citizen of [[Lunti]], tasked with the protection of [[Selene Silvermoon]] by [[Gladius Silvermoon]]. In the Eclipsed timeline, Eliza performed this task by sticking to Selene's side, from her medical-malpractice clinic, to the shores of Revanon. At the end of the SOULREND campaign, Eliza elected to travel to the Solsticed timeline with [[Silas]] and [[Parce]], leaving her longtime friend, [[Abbie]], behind.

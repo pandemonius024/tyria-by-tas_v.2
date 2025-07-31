@@ -1,3 +1,6 @@
+---
+tags:
+---
 *via PF2e GM Core pg. 176*
 
 Like a great, gleaming ball of flame centered at the heart of the [[Luminiferous Aether]], the Plane of Flame is the  outermost plane of the [[Inner Sphere Planes]]. A perpetual ocean of fire with skies of smoke, storms of raining cinders, and lakes and rivers of magma flowing along its border with the [[Plane of Metal]], the plane is incredibly hostile to those unprepared for its natural hazards.

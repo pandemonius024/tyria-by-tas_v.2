@@ -1,3 +1,6 @@
+---
+tags:
+---
 The Remembered are the inhabitants of [[Celestia]]. As their name suggests, the Remembered are a class of creatures designated by their memorability across mortal life. Historical figures of import, particularly well-traveled performers and musicians, and individually impactful heroes are all prime candidates to be Remembered. Those who make enough of an impact on society, positive or negative, are then enshrined in the halls of Calistria to serve as a vignette of the times that produced them. As the memory of a Remembered fades from the collective consciousness of the mortal realms, so too does the spirit of the Remembered. When the last thought of a Remembered passes from the mortal realm, life ceases to flow through them, and they are [[Forgotten]].
 ## Notable Remembered
 - [[Rox]] was a Remembered human that sold his memory to the demon [[Lars]] in exchange for his return to the Material Plane.

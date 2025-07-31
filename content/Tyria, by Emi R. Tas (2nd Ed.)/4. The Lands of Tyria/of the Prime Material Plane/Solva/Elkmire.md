@@ -1,3 +1,6 @@
+---
+tags:
+---
 Elkmire is a heavily fortified keep ran by the high elves in the [[Ashen Peaks]]. Elkmire is packed to the gills with an incredibly dense, multi-layered network of: mass-meditation sites, smithies, craft shops, cookeries, academies de magic, law enforcement and surveillance, armories, counsel chambers, and high security facilities. Elkmire exploits Dawnguardians' inability to survive in cold climates as an extra layer of defense. From its sheer, arched walls, to its ability to rapidly retaliate from any direction of attack, Elkmire has become notorious in Dawnguardian circles as being impregnable and unconquerable.
 
 The strictly regimented architecture in Elkmire reflects the suffocating society that lives within it. Any high elf not willing to hone their craft, to train physically to failure, or to commit themselves wholly to the high elves' cause, is rejected from Elkmire. Elkmire maintains its population level by virtue of its denizens' extremely long lifespan, a ferocity in the blood of those elves to reclaim the land that was theirs, and a propensity to fight battles Elkmire knows that it can handily win.

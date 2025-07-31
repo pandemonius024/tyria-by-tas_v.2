@@ -1,3 +1,6 @@
+---
+tags:
+---
 En media, Tyria's calendar follows her looping around Lunaris and Solaris. The naming convention was penned by scriptors of the [[Eternal Empire]], and behaves similarly to the Gregorian calendar of us Earthlings.
 
 The year 1 corresponds to the year that Pharasma, the inevitable split the Prime Material Plane, suffixed by the index AS, meaning "After Shattering"; BS, "Before Shattering". See: [[Timeline of major events]] for a chronological look at the world of Tyria.

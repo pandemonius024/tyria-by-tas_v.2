@@ -1,1 +1,4 @@
+---
+tags:
+---
 The Unending Sea is the name of the contiguous body of water encompassing each continent in the [[Prime Material Plane]]. The Unending Sea surrounds each continent, and extends off the sides of [[Tyria]] to the east and the west. The Unending Sea was created by [[Torentia]], who opened a spout to the [[Plane of Water]] shortly after the death of the Divinarius.

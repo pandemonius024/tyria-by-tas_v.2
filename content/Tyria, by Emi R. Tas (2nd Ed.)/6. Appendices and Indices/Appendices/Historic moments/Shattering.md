@@ -1,0 +1,8 @@
+---
+tags:
+---
+The Shattering is an event, referring to the moment [[Pharasma, the inevitable]] used the [[Hill]] to fracture the [[Prime Material Plane]]. This division resulted in the three constituent planes, each formerly an aspect of the Prime Material: the [[Material Plane]], retaining most structures; the [[Realm of Chaos]], an abundant wealth of magical power; the [[Shadowfell]], a fraction of the Material. As a result of the Shattering, the planar balance was thrown into turmoil, enabling Pharasma's usurpation of Death, and formation of Alethia.
+
+The Shattering was planarly reshaping, but not necessarily destructive. The constituent planes have proven durable enough to retain most all of its planar mass; most all of the planar mass that made up the Prime was accounted for across the Material, the Shadowfell, and the Realm of Chaos. Any residual planar mass is lost to the Luminiferous Aether, or otherwise harnessed by Pharasma towards the ends of fashioning Alethia.
+
+The Shattering sent the fragments of the Prime flying. The Material Plane, anchored to the bodies of the Divinarius, remained resting upon Tyria's abdomen, and did not move. The Shadowfell, a lesser fraction of the Material Plane, was sent deep into Tyria's intestinal tract and beyond, tainting the Shadowfell with the Dark. The Realm of Chaos, a similarly lesser fraction of the Material Plane, was sent opposite the Shadowfell directly into the Luminiferous Aether.

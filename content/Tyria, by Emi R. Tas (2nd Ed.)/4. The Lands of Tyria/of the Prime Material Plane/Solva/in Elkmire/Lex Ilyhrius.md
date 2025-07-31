@@ -1,3 +1,6 @@
+---
+tags:
+---
 Lex Ilyhrius is a eugenics facility nested deep within [[Elkmire]]. Lex Ilyhrius is the home and final resting place of captured combatants from the human side of the conflict between Elkmire and Dawnguard. These human prisoners are often ferried, bruised and blindfolded, into the annals of Elkmire where they typically remain until death. The elves in charge of Lex Ilyhrius, having a lifespan far outstripping those of the human prisoners, breed the humans together in various variations, in the hopes of crafting a human that might be "comparable to grace and elegance of our kind." No elf as of yet has been successful.
 
 Lex Ilyhrius is a tool to affirm the elves' superiority over humans to themselves. Leaders of elves, any commanding officer, and those who find themselves questioning the validity of the elves' fight against the humans are convinced of their superiority via Lex Ilyhrius. Humans in containment are whipped, made to yelp and beg in their squalor, made to dance for their entertainment, and made to be subjects of elven curiosities. In the course of this cruel practice, high elven dissidents are often convinced of their innate superiority over humans, and are emboldened to continue their cleansing crusade.
