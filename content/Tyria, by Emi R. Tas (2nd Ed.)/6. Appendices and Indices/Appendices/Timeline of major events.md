@@ -33,10 +33,10 @@ The Age of Anguish is marked by the landing and development of Tyria's major set
 - 0 BS: Pharasma, the inevitable, at E'Lenora, begins the Shattering.
 ### Age of Destiny (1 - 632 AS)
 The Age of Destiny is marked by the plane-dividing Shattering, and ended by the plane-repairing [[Solstice]].
-- 11 AS: The Brudel march towards Hasha;
+- 11 AS: The Brudeli march towards Hasha;
 - 11 AS: Isko Kidar leads the nascent Ja'Almawt out of Hasha;
 - 11 AS: Aris, the unwritten leads the wounded out of Hasha;
-- 12 AS: The Brudel break into Hasha, the Tear of Time lands upon King Anton;
+- 12 AS: The Brudeli break into Hasha, the Tear of Time lands upon King Anton;
 - 12 AS: Tyrus Terim escapes Hasha with his nascent Soldiers of Strife;
 - 163 AS: Industrial-minded elves emigrate from Tyria's Root to E'Lenora;
 - 300 AS, roughly: The Shadowfell is fully obscured from the Dark, the Dark's influence falls onto the Shadowfell;
@@ -44,5 +44,5 @@ The Age of Destiny is marked by the plane-dividing Shattering, and ended by the 
 - 633 AS, early Vivici: Anton Essa meets the ETERNITY party for the first time; 
 ### Age of Enthronement (633 AS - present)
 The Age of Enthronement is marked by the ascension of Qatar Altan to god of the Light, and the Solstice that reformed the planes. It continues till present day.
-- 633, late Vivici: the Solstice completes, and the Prime Material Plane is repaired.
+- 633, late Vivici: the Solstice completes, and the Prime Material Plane is repaired;
 - 633 AS, early Lurici: Qatar issues the Lightbearer decree;

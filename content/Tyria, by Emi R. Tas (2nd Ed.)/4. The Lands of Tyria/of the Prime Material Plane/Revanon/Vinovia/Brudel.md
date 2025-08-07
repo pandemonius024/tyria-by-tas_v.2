@@ -3,4 +3,6 @@ tags:
   - ETERNITY
   - WIP
 ---
-Brudel was a militaristic city state, known for their heightened aggression with those they shared borders with. The Brudel empire was responsible for [[Hasha]]'s demise, as well as their own.
+Brudel was a city state in northern [[Vinovia]], best known for their heightened aggression with those they shared borders with. The Brudeli people maintained a culture of strict orthodoxy, wherein the church held supremacy over the legislature and used that power to enforce its policies.
+
+Brudel

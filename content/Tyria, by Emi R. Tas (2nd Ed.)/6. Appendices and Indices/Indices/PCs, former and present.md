@@ -6,13 +6,9 @@ The following is a linked list of PCs, former and present, that have existed at 
 
 One-shots:
 - Kieron's Tower
-	- Vladimir (Communist dwarf)
+	- Vladimir Ironfist (Communist dwarf)
 - The Hell one-shot
-	- Myar (Fire genasi fighter)
-	- [[Kuasi]] (Druid, Quaggan GW2)
-- The Vecna one-shot
-	- Zephyr (Elf champion fighter)
-	- Charon (Elf fighter-rune knight-cleric)
+	- [[Kuasi]] (Druid Quaggan from GW2)
 
 ASCENSION:
 - [[Jaemji Wanwon the fifth]] (Half-elf swashbuckler, executed after ASCENSION)
@@ -35,22 +31,21 @@ REAVE:
 BANE:
 - Balin (Goblin bomber, bombed himself to death)
 - Waypath (Warforged)
-	- warforged with no memories, potentially she was a runaway. cornelius?
-- Aramis (Arrogant soldier, arrested after harassing a shopkeep)
+- Aramis (Arrogant soldier, arrested after harassing a shopkeeper)
 - T'Jhin (Human (appearing?) rogue)
 
 ETERNITY:
-- [[Agnar Lightbringer]]
-- [[Dante du Fleur]]
-- [[Qatar Altan]]
-- Graviar
-- [[Indiana Bones]]
-- [[Signus]]
+- [[Agnar Lightbringer]] (Fallen aasimar oathbreaker champion)
+- [[Dante du Fleur]] (Dhampir alchemist)
+- [[Qatar Altan]] (Kalashtar druid -- now a god!)
+- Graviar (Dragonborn, dead on arrival)
+- [[Indiana Bones]] (Skeleton wizard)
+- [[Signus]] (Tabaxi wizard)
 - Eeei (Satyr bard)
-- [[Deimos Tenebris]]
-- [[Phobos Tenebris]]
-- [[Mori Tenebris]]
-- [[Ambrose Tenebris]]
+- [[Deimos Tenebris]] (Drow sorcerer, younger brother)
+- [[Phobos Tenebris]] (Drow magus, older brother)
+- [[Mori Tenebris]] (Drow oracle, alternate universe older brother)
+- [[Ambrose Tenebris]] (Drow witch, uncle)
 
 Dreamwalker (Doan's campaign):
 - [[Quzahn]] (Tabaxi gunslinger)
@@ -62,7 +57,9 @@ Dreamwalker (Doan's campaign):
 
 SUNDER:
 - [[Arthas]] (Half-elf warlock hexblade)
-- [[JACKAL]] (Warforged system of 3)
-	- 3 consciousnesses inside of it: Jack, Lazarus, and Aurelius (JK&L respectively)
+- [[JACKAL]] (Warforged system of 3: Jack, Lazarus, and Aurelius)
 - [[Cradeyr]] (Half-high elf artificer)
-- [[Ashton]] (rabbitfolk ranger)
+- [[Ashton]] (Rabbitfolk ranger)
+
+AFTERSHOCK:
+- ...to be continued!

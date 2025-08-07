@@ -2,7 +2,7 @@
 tags:
   - ETERNITY
 ---
-The Blade of Eternity is a serrated greatsword wielded by ETERNITY's own [[Agnar Lightbringer]]. Throughout its storied life, the Blade of Eternity possessed a number of names, and a number of owners. The Blade of Eternity was once called Soultaker, while it was wielded by [[Tyrus, the warbringer]] during the Brudel siege of Hasha. Soultaker was the blade responsible for ending the life of King Anton during that siege, subsequently sealing his soul within. 
+The Blade of Eternity is a serrated greatsword wielded by ETERNITY's own [[Agnar Lightbringer]]. Throughout its storied life, the Blade of Eternity possessed a number of names, and a number of owners. The Blade of Eternity was once called Soultaker, while it was wielded by [[Tyrus, the warbringer]] during the Brudel's siege of Hasha. Soultaker was the blade responsible for ending the life of King Anton during that siege, subsequently sealing his soul within. 
 
 Prior to the ETERNITY campaign, Tyrus Terim abandoned the Soldiers of Strife and their cause, shed Soultaker, and left his blade and armor in the sands of Vinovia. Later, his blade would be discovered by the roving archeologists of Amsa, who would then donate the blade to the research facility [[Lex Proxima]]. While in Lex Proxima, Soultaker was known as "Item S-P04".
 
