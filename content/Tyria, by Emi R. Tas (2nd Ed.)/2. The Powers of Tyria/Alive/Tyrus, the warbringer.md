@@ -1,6 +1,9 @@
 ---
 tags:
   - ETERNITY
+aliases:
+  - Tyrus Terim
+  - Tyrus
 ---
 Tyrus Terim is the former god of war, patron of the [[Soldiers of Strife]], and wildlife foraging devotee. Tyrus has tan, leathery skin, peppered with sun spots due to his tenure in Vinovia. He sports long, greying hair, a deeply toned physique, and minimal clothing to highlight it all.
 

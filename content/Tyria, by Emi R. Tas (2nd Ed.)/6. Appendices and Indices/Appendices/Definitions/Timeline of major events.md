@@ -46,3 +46,4 @@ The Age of Destiny is marked by the plane-dividing Shattering, and ended by the 
 The Age of Enthronement is marked by the ascension of Qatar Altan to god of the Light, and the Solstice that reformed the planes. It continues till present day.
 - 633, late Vivici: the Solstice completes, and the Prime Material Plane is repaired;
 - 633 AS, early Lurici: Qatar issues the Lightbearer decree;
+- 673 AS: AFTERSHOCK convenes at Trogal

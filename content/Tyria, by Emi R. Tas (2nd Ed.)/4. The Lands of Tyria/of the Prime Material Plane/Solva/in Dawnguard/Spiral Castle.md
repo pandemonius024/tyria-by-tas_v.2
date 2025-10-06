@@ -1,7 +1,0 @@
----
-tags:
-  - SUNDER
----
-Spiral Castle is a monumental stone spire, built in a conical-horn shape. The base has a diameter of 400 ft., and Spiral stretches upwards, of 2000 ft. A staircase in Spiral's dead center reaches ~1800 ft. high, leaving any who wish to reach the peak to climb the remaining 200 ft. of spiral. Spiral Castle is the centerpiece of Dawnguard, hosting the monarch, their governing body, and a vast gathering area surrounded by food stands, buskers, and the passerby. All roads can navigate to Spiral, making it the single most populace intersection for foot traffic.
-## History
-Following the SUNDER campaign, Arthas tailed an elf from his dreams into the annals of Spiral Castle. Within, he tailed the elf through a doorway leading him and his allies into the Realm of Chaos. After a terse few exchanges, and an abyssal fight, Arthas and company were returned to Spiral Castle unharmed -- with a new blade, as well.

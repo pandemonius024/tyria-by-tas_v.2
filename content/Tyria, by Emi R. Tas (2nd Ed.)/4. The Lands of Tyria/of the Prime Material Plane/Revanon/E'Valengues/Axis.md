@@ -3,7 +3,7 @@ tags:
   - ETERNITY
 ---
 Axis is a city located on the northern reaches of [[E'Valengues]]. Axis is located just south of the [[Vasiliča Range]], and is surrounded by dense forest. Axis was originally [[Mania]]'s stronghold in the [[Shadowfell]]; after the [[Solstice]], Axis was superimposed over [[E'Lenora]], effectively occupying the elven settlement.
-## History
+## Creation and the Solstice
 Axis began as a hidey hole for Mania just following her banishment into the Shadowfell. After [[Pharasma, the inevitable|Pharasma]] divided the planes into 3, Mania was left with nothing but her image of the [[Hill]]. Mania used the materials present in the Hill to construct somewhat of a shelter for herself in the early days, and would later use the materials to construct the first [[Axiomites]]. Together with the Axiomites, Mania grew Axis.
 
 Axis was built radially out from the Hill; as Mania's knowledge of the Shadowfell grew, so too did Axis' borders. While the city appears to be a collection of tightly packed residences, in reality it is a series of nested defenses, each layer dedicated to defending against one type of threat from the Shadowfell.

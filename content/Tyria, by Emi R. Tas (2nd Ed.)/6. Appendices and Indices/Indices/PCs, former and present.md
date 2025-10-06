@@ -26,7 +26,7 @@ REAVE:
 - Yohan (Half-elf storm sorcerer)
 - Scorter Firefist (Human echo knight)
 - Irix (Changeling, draconic bloodline sorcerer, KIA in early REAVE)
-- Qim Chie (Elf genie warlock, earth djinn patron)
+- [[Qim Chie]] (Elf genie warlock, earth djinn patron)
 
 BANE:
 - Balin (Goblin bomber, bombed himself to death)
