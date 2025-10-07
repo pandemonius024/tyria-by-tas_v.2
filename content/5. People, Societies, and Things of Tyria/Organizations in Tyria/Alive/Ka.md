@@ -3,8 +3,6 @@ tags:
 ---
 Ka is the belief that a creature's maximum potential for life is unleashed when it experiences combat to the death. The name, comes from the sound of a decisive blow, "Ka!", otherwise known as "the swing that determines the winner and loser of a duel". This sound arose from a centuries-old tradition amongst the early [[Brudel]], who would duel to determine ownership of contested property, or determine the choice of action given disagreements, among other examples. Early Brudeli remark that the most accurate rendition of the sound, "ka", comes from when a hooked fist meets the temple of the soon-to-fall.
 ## Core tenets
-the core tenets of Ka involve lessons best taught experientially, and focus on enshrining combat as the end all be all. might makes right type beat
-
 While practitioners of Ka ultimately follow a singular, simple belief -- that being might makes right -- the core tenets of Ka as a functional belief system are quite difficult to pin down. Writing on sheets of papyrus dating back to ~100 BS tells us that the beliefs that Ka centered upon are extracted from combat itself. These lessons, should the learned be particularly cynical, could be reduced down to "block their jab", or "use more footwork". Indeed, those who win Brudeli duels tend to focus on the technique lessons they can impart.
 
 Rarely do we find accounts of believers in Ka discerning a meaningful lesson to be passed on from generation to the next one. From these individual experiences can we assemble something resembling a consistent set of tenets that believers in Ka tend to follow:
