@@ -1,0 +1,5 @@
+---
+tags:
+  - ETERNITY
+---
+The day that Hasha died was a day in Eterni of 12 AS, in which the [[Brudel]] siege of [[Hasha]] breached [[King Anton]]'s castle, the Precipice. The instant before [[Tyrus, the warbringer]] drove [[Blade of Eternity|his blade]] into King Anton, the [[Tear of Time]] landed in King Anton's hands. In King Anton's death wails, the Tear of Time harmonized. It resonated, and carried King Anton's final wish whether he intended it or not, in its waveforms across the city. As the wish carried by the Tear of Time washed across Hasha, Hasha would be changed irrevocably. Hasha within its once-proud city walls, was blessed to be festive, and celebratory, in a day made to repeat itself ad infinitum. Hasha outside its walls, was cursed into a state of undeath, and made to experience ghastly echoes of the day Hasha died.

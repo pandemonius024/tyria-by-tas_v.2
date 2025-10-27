@@ -61,5 +61,12 @@ SUNDER:
 - [[Cradeyr]] (Half-high elf artificer)
 - [[Ashton]] (Rabbitfolk ranger)
 
+SOULREND:
+- [[Eliza Khione]] (Human)
+- [[Parce]] (Kobold deliveryman)
+- [[Selene Silvermoon]] (Human tactician)
+- [[Aparine Silvermoon]] (Human time traveler)
+- [[Silas]] (Elven rogue)
+
 AFTERSHOCK:
 - ...to be continued!
