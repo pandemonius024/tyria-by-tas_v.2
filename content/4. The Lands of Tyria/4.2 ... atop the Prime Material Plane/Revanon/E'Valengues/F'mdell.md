@@ -2,6 +2,7 @@
 tags:
   - ETERNITY
   - Dreamwalker
+  - WIP
 ---
 F'mdell is a border city belonging to the elves, marking the divide between the humans' territory in Metrica Province, and the elves' territory in [[E'Valengues]]. F'mdell is also a port, allowing the elves access to the worlds' goods, most notably of which being [[Bastilite]] coming in from Basti. F'mdell was the location of an assault directed by Tangmazu, the trickster under the guise of Dimitri, in a coordinated attempt with Pharasma, the inevitable to secure the Tear of Time and Tear of Space. While the city survived the carnage leveled by this encounter, the recency and terror that it wrought has spurred isolationist sentiments from the municipality.
 
@@ -10,5 +11,5 @@ Tangmazu's assault on SOLSTICE was three-fold: an army of cheap puppets were cov
 F'mdell's debates about protections from vs. appeasement to the gods, and the reconsideration of the elvish-human divide, bloomed into a conversation about the utility of man. Some view the carnage wrought on their shores to be the result of foreign actors using their homes as the backdrop to their violence; others see SOLSTICE's response to be emblematic of the usefulness of foreigners, and later, the Light; others still rallied for an exploration into the area where "Lunaris looked into the sea", claiming there must be something of great import.
 
 *Note: While there is "something of great import" at that spot, the citizens of F'mdell believe it to be a holy site, like a flooded church, or some kind of sacred fishing hole. Not the location of the broken shards of Lunaris.*
-
+## History
 Following the Solstice, F'mdell would draw inwards by necessity, locking down any trade or transit between elven and human settlements, exasperating the tensions between the two ancestries. Many a F'mdellian believe the Solstice to be the direct work of what happened on their shores just a week before its onset. F'mdell responded to the threats from the Shadowfell by continuing to bicker about their borders, with one camp pushing for the enlistment of human troops, and another camp pushing for the complete isolation of F'mdell.

@@ -11,4 +11,4 @@ Like Jaemji, Des was cut down, and Des' soul in particular was torn apart across
 - In the Eclipsed timeline, Dante du Fleur and Qatar Altan (and Bones' unobserving skeleton) find Des in [[Calistria]], lounging just outside the city with a friend. 
 - Indiana Bones (the observing skull) and Mori Tenebris find Des in [[Alethia]], who was ferried alongside them down the river Acheron. 
 - Agnar and Iron Fist Alexander found Des in the [[Boneyard]], awaiting judgement evermore.
-- Des accompanied [[Throckmorton Normalman]] and [[Ire]] under the name 'Desmond', on their journey to slay the Rat King of [[Vardousia Range]]
+- Des accompanied [[Throckmorton Normalman]] and [[Ire Normalguy]] under the name 'Desmond', on their journey to slay the Rat King of [[Vardousia Range]]

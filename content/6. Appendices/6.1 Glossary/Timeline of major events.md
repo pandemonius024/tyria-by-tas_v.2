@@ -19,7 +19,7 @@ The Age of Serpents is the earliest period of time for which any physical record
 - Early reptiles leave the Unending Sea, assumed to have spread to every continent;
 - Serpentfolk, the first of the animalfolk, fashion the first societies;
 - A meteor impacts Tyria, ending the Age of Serpents;
-	- Of note, the crater that was formed by this meteor is the crater Hasha occupied.
+	- Of note, the crater that was formed by this meteor is the crater Hasha occupies.
 - Carpets of ash covers the land, soot-filled rain pollutes any potential agriculture.
 ### Age of Division (~7,000 - 3,501 BS)
 The Age of Division is marked by the presence of the first humanoids and their societies. Fossil records suggest that all humanoids have a singular ancestor, spawned from an unknown, likely dominant animalfolk in Revanon.
@@ -30,20 +30,24 @@ The Age of Division is marked by the presence of the first humanoids and their s
 The Age of Anguish is marked by the landing and development of Tyria's major settlements, and is ended by the nominal Shattering event.
 - 1,244 BS: Hasha is settled;
 - 231 BS: Brudel splits from Hasha;
-- 0 BS: Pharasma, the inevitable, at E'Lenora, begins the Shattering.
+- 0 BS: Pharasma, the inevitable Shatters the Prime Material Plane into 3.
 ### Age of Destiny (1 - 632 AS)
 The Age of Destiny is marked by the plane-dividing Shattering, and ended by the plane-repairing [[Solstice]].
 - 11 AS: The Brudeli march towards Hasha;
 - 11 AS: Isko Kidar leads the nascent Ja'Almawt out of Hasha;
-- 11 AS: Aris, the unwritten leads the wounded out of Hasha;
-- 12 AS: The Brudeli break into Hasha, the Tear of Time lands upon King Anton;
+- 11 AS: Aris, the unwritten leads the women and wounded out of Hasha;
+- 12 AS: The Brudeli break into Hasha, King Anton manifests the Tear of Time;
 - 12 AS: Tyrus Terim escapes Hasha with his nascent Soldiers of Strife;
+- 58 AS: Mania makes the first Axiomite;
 - 163 AS: Industrial-minded elves emigrate from Tyria's Root to E'Lenora;
 - 300 AS, roughly: The Shadowfell is fully obscured from the Dark, the Dark's influence falls onto the Shadowfell;
-- 310 AS: Mania makes the first of the Axiomites;
+- 621 AS: Kalarel, the Vile begins working towards releasing Kitava, REAVE intervenes;
+- 622 AS: King Radovan shows illness, BANE attempt to crown the next ruler of Asteria;
+- 626 AS: Kalarel, the Vile is successful at releasing Kitava;
 - 633 AS, early Vivici: Anton Essa meets the ETERNITY party for the first time; 
 ### Age of Enthronement (633 AS - present)
 The Age of Enthronement is marked by the ascension of Qatar Altan to god of the Light, and the Solstice that reformed the planes. It continues till present day.
 - 633, late Vivici: the Solstice completes, and the Prime Material Plane is repaired;
-- 633 AS, early Lurici: Qatar issues the Lightbearer decree;
-- 673 AS: AFTERSHOCK convenes at Trogal
+- 633 AS, early Lurici: Qatar issues the Lightbearer decree, Al'Nuwr founded;
+- 639 AS, Torentia sinks Wraeclast, plugs Kitava with a spout from the Plane of Water;
+- 673 AS, Atziri: Axis invades F'mdell, AFTERSHOCK intervenes;
