@@ -4,17 +4,19 @@ tags:
   - BANE
   - ETERNITY
 ---
-Asteria is the capital city of the kingdom of [[Revanon]], and a port town connected to wider Tyria. Asteria thrives off of the industry housed there, relying largely on industrial taxes to fund a number of arts foundations and its public services. Asteria, at the time of the Solstice, is without a king, as [[King Radovan]] had just recently passed away without declaring an heir to the throne. This has left Asteria in a state of political turmoil, as every political house present vies for the throne.
+Asteria is a city-state on the western shores of [[Revanon]], and was the capital of the kingdom of the same name. Asteria is a port city, connecting the continent to wider Tyria. Asteria's citizens are mostly human, but features a wide range of life from all across Tyria.
+## Landmarks and layout
+Asteria is a densely built city centered on the royal castle. The castle itself is built onto the highest point in the area, which happens to oversee the ocean to the west. Sprawling out from the castle are the manors of those lords who wish to live close to the royal family, then Asteria's fine arts and specialty commercial uses, then the general populace.
+
+A few landmarks have managed to withstand the test of time:
+- [[Ambrose Tenebris]] owns a manor in the heart of Asteria, and formerly used it as an operations site for the [[Unseen]].
+- The Wanwon's estate is housed in Asteria, and currently functions as the headquarters and living quarters for [[Emji-Jae Wanwon the fifth]].
+- The Skyforth's estate is housed in Asteria, and is currently occupied by the aging last-in-line, Leoburn Skyforth.
+- The White Rose is a double-deckered inn owned by one Gregor Sepp. The White Rose was opened by [[Barkhum]], who willed Gregor the owner once he passed.
+- The Goblin Bar is an aptly named watering hole built for patrons 5' and shorter. The Goblin Bar is staffed exclusively by goblins, who play fast and loose with food, drink, payments, and social norms.
 
 While Asteria's gates hang loose for travelers, immigrants, and villagers seeking better lives and fortune, its walls are war-ready and tall. The sheer face of Asteria's outer walls resist scaling, hang too high for siege ladders, and are constructed with such an abundance of stone that mere catapulting has proven useless. Said to have been graced with the hands of [[Dwarves]] early in its life, Asteria's walls are fortified enough to dissuade any marauding army from attempting siege.
+## History
+Following the SOLSTICE campaign, King Radovan became overcome with an unidentifiable illness, to which he would later succumb. With his final letter addressing his people, King Radovan reduced the power of the monarchy, and willed his citizens to seize power for themselves.
 
-Such security has given rise to a culture all of its own. Asterian life relishes in the arts, with theaters lining each district, and musicians decorating the air of the streets. Nobles are frequent patrons of the arts, funding statues in their likeness, paintings of their likeness, and songs composed about the beauty of their likeness.
-
-A wide assortment of houses, organizations, gangs, and outsider groups find homes in Asteria. Among these groups are the following:
-- Ambrose Tenebris has a manor situated in Asteria, and was originally used as a central quarter for the Unseen. Ambrose's presence here signals to members of the Unseen their presence in the city;
-- The Wanwon's, of which the most notable is Emji-Jae Wanwon the fifth, have a manor in a more beautifully decorated annal of Asteria -- conveniently situated nearby a sewage inlet;
-- The Skyforth's, helmed by Leoburn Skyforth, a disgraced house of Asteria, who only retains ties to the throne by thin blood ties.
-
-There are also a number of attractions to snag traveler's coins in Asteria, not least of which include:
-- The White Rose, a double-deckered tavern owned by one Barkhum, a most humble tavernkeeper, whose origins in Southmoor keep him humble -- despite his runaway success. The White Rose sports spacious rooms for travelers to rest their legs in, breakfast served until the sun hangs high, and enough drink in the evening to wake King Radovan back up!
-- The Goblin Bar, the unofficial name of a bar-turned-restaurant that seems to have been taken over by a gaggle of culinarily-inclined goblins. Diners who sit in at the Bar end up being served whatever dish the chefs decide to make in that moment; diners usually report being served tasty dishes. Despite the frenetic servers, chaotic menu, and cramped seating spaces, the Goblin Bar retains its popularity thanks to its pay-what-you-want billing methods. The goblins of the Bar are typically content with whatever amount you pay for your meal -- so long as your coin shines.
+Prior to the AFTERSHOCK campaign, Asteria was in a state of feudal division. Numerous lords and family houses seized what companies, vessels, shops, mines, and assets that they could, and began to operate under their own sets of rules and regulations. This caused many a lord to head eastward in search of fresh land to settle their own lordships, conquering pre-existing territories, and giving rise to the warlords who opposed them.

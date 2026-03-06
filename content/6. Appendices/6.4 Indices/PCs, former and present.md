@@ -9,6 +9,9 @@ One-shots:
 	- Vladimir Ironfist (Communist dwarf)
 - The Hell one-shot (5e)
 	- [[Kuasi]] (Druid Quaggan from GW2)
+- A Sunday with the lads (Draw Steel!)
+	- [[Throckmorton Normalman]]
+	- [[Ire Normalguy]]
 
 ASCENSION (5e):
 - [[Jaemji Wanwon the fifth]] (Half-elf swashbuckler, executed after ASCENSION)
