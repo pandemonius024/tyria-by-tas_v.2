@@ -9,6 +9,3 @@ Agnar was born into the Soldiers of Strife, raised in the harsh climate of the [
 Agnar would, following the events of the ETERNITY campaign, become the Keeper of Time. Wielding the Timesplitter, Agnar unknowingly harnessed the powers fashioned by Tyrus, and eventually proved himself more capable a warrior than the God of War himself. 
 
 Agnar tends to default to violence if things don't go his way. Using his overbearing stature, immense might, and naturally intimidating persona, Agnar reshapes the world around him into one of his wishes. 
-
-Notes:
-- Soldiers of Strife would dissolve, leaving room for Agnar's Eternal Blades, a brotherhood-at-arms intended to be the spiritual successor to the Soldiers.

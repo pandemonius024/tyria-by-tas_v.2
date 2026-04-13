@@ -2,7 +2,7 @@
 tags:
   - AFTERSHOCK
 ---
-The Ashen Padma (uses no pronouns) is a beholder, and a collectable aficionado based out of [[Dweomerheart]]. The Ashen Padma has devoted The Ashen Padma's time and beholder-powers to collecting an undamaged, stasis-preserved petal from each individual species of flower to have ever grown. The Ashen Padma has been influential in bolstering [[MIST]]'s own collection of flower seeds, and has been additionally notable for maintaining the largest and most diverse garden in Dweomerheart. The Ashen Padma's appearance, beyond the knowledge that The Ashen Padma is a beholder, is largely unknown, as The Ashen Padma rarely shows The Ashen Padma's face.
+The Ashen Padma (no pronouns) is a beholder, and a collectable aficionado based out of [[Dweomerheart]]. The Ashen Padma has devoted The Ashen Padma's time and beholder-powers to collecting an undamaged, stasis-preserved petal from each individual species of flower to have ever grown. The Ashen Padma has been influential in bolstering [[MIST]]'s own collection of flower seeds, and has been additionally notable for maintaining the largest and most diverse garden in Dweomerheart. The Ashen Padma's appearance, beyond the knowledge that The Ashen Padma is a beholder, is largely unknown, as The Ashen Padma rarely shows The Ashen Padma's face.
 ## Name origin
 The name, The Ashen Padma, is in reference to the flower petal that The Ashen Padma expects to collect last. This is a reference by The Ashen Padma to the poet Imro's depiction of the [[Void]], the following passage of theirs in particular: "...ashen petals layer to form her magnum opus / see not, be not; rest now in the black lotus."
 ## Ecliptic Heroes

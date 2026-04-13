@@ -5,4 +5,4 @@ Kalashtar are the result of the union between a divine being and a mortal. The r
 
 The Kalashtar are bound, by blood and Aether, to surpass and replace their divine parent. As a Kalashtar reaches physical and mental maturity, their mixed blood grows in strength, met by a growing weakness in their divine parent. By the time the child reaches full maturity (est. mid-20s for a human-divine child), the divine parent will reach maximal weakness, and pass on. With proximity or force of will, this process can be accelerated. Following the death of the divine parent, the mortal-divine child is made to assume their parent's power.
 ## Notable Kalashtar
-- [[Qatar Altan]], present god and harbinger of the [[Light]], is the son of mortal [[Isko Kidar]], and immortal [[Selûne, the enervate]].
+- [[Qatar]], present god and harbinger of the [[Light]], is the son of mortal [[Isko Kidar]], and immortal [[Selûne, the enervate]].

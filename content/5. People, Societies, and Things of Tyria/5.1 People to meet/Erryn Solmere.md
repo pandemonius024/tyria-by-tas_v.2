@@ -6,7 +6,7 @@ Erryn Solmere is a high elven diplomat hailing from [[Cor Scant]].
 ## History
 Following a high profile assassination of Fiona Winzer, an Asterian diplomat to Cor Scant, Erryn left Cor Scant to nurture amity between neighboring nations. This amity mission led him to assist a caravan from [[Trogal]] to [[F'mdell]].
 
-verbatim
+verbatim:
 
 Erryn was born (gasp), gifted with unique powers, his parents sent him to the temple on Core Scant. For years he trained under masters like Eliza to develop and control his powers, using them to help a world in crisis. Erryn traveled the world with his master, helping villages settle disputes, prevent wars, provide much needed supplies, and guiding leaders toward peace. 
 

@@ -22,6 +22,7 @@ ASCENSION (5e):
 - [[Ji-Eun]] (Human ranger-rogue, executed after ASCENSION)
 - [[Frater Automatus]] (Warforged barbarian)
 - Darthpouch (Dragonborn sex offender)
+- Paimone (Deer humanoid monk)
 
 REAVE (5e):
 - [[Aux Chord]] (Human bard-monk multiclass)
@@ -40,7 +41,7 @@ BANE (5e):
 ETERNITY (5e -> PF2e):
 - [[Agnar Lightbringer]] (Fallen aasimar oathbreaker champion)
 - [[Dante du Fleur]] (Dhampir alchemist)
-- [[Qatar Altan]] (Kalashtar druid -- now a god!)
+- [[Qatar]] (Kalashtar druid -- now a god!)
 - Graviar (Dragonborn, dead on arrival)
 - [[Indiana Bones]] (Skeleton wizard)
 - [[Signus]] (Tabaxi wizard)

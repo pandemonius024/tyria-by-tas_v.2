@@ -2,7 +2,7 @@
 tags:
   - ETERNITY
 ---
-In the early stages of the ECLIPSE campaign, [[Qatar Altan]] sits idly by as the others discuss next steps. In his bag, he notices a piece of paper poking out of the journal he found at [[Mor Proxima]], a loose page, just now showing itself.
+In the early stages of the ECLIPSE campaign, [[Qatar]] sits idly by as the others discuss next steps. In his bag, he notices a piece of paper poking out of the journal he found at [[Mor Proxima]], a loose page, just now showing itself.
 
 ---
 
