@@ -1,34 +1,41 @@
 ---
 tags:
 ---
-The current model of planar cosmology structures the planes in two sets of concentric spheres known as: the Inner Sphere Planes, and the Outer Sphere Planes. In general, the Inner Sphere is where mortals cycle through life and death, and the Outer Sphere is where immortal facets of existence influence the rest of the planes.
+The planes are a series of surfaces of varying stellar depth that comprise the universe. The [[Prime Material Plane]] is one of these planes.
+## Stellar depth
+A single plane can be explored in 3 dimensions: width, depth, and height; the planes co-exist across a 4th dimension: stellar depth. Stellar depth is a relational value that compares the positioning of two planes. For example, the Plane of Flame has a low stellar depth to the Plane of Earth, but a high stellar depth to Alethia. 
+## Traversal
+It is possible to traverse stellar depth in a number of ways. Skilled spellcasters can will themselves and company into distant positions in distant planes; skilled climbers can climb a tree out of the Plane of Wood into the Plane of Water.
 
-The planes are a series of realms that are, at places, physically connected to one another, and at other places, loosely bounded. For example, one may be able to climb a particularly well-rooted tree to travel from the Plane of Water to the Plane of Earth. Conversely, one would find it rather difficult to walk from Celestia to Alethia. 
-
-The boundaries between planes range wildly, from an aggressively-regrowing wood base, to a prohibitively deep ocean of chaotic fervor, to never-ending skies of stone-slicing wind. Free form, inter-planar travel is restricted to talented mages at best, and utterly impossible for the rest.
-## Structure and dimensionality
-The planes, Inner and Outer, can be organized on a single line, representing the 4th dimension known as "stellar depth". Stellar depth joins our more well-known 3 dimensions of space as a measure of distance to the [[Void]]; the Void being the conventional choice to define stellar depth 0. Stellar depth provides us with a metric for which we can organize the planes within Inner and outer 
-
-
-Physically speaking, the planes are actually organized across a 4th dimension of ordering, upon which all planes can be organized. The following list orders the planes in relation to their proximity to the Void, from closest to furthest.
-- The Inner Sphere planes, woven together by the Luminiferous Aether:
-	- Void
-	- The Prime Material Plane, and the observable universe; the composite plane of the Shadowfell, Realm of Chaos, and the Material
-	- The Boneyard; the starting point of the rivers Acheron and Cocytus
-	- The 6 elemental planes, nested closely to one another:
-		- The Plane of Air;
-		- The Plane of Water;
-		- The Plane of Wood;
-		- The Plane of Earth;
-		- The Plane of Metal;
-		- The Plane of Flame;
-- The Outer Sphere planes;
-	- The Twin Afterlives:
-		- Alethia, the endpoint of the rivers Acheron and Cocytus
-		- Celestia, home of Calistria
-	- The 4 axes of ordering:
-		- The plane of Law
-		- The plane of Chaos
-		- The plane of Good
-		- The plane of Evil
-	- Maelstrom
+In general, whenever applicable, landmarks on one plane correlate to landmarks on other planes. Traversing stellar depth without changing width, depth, or height will tend to place you at similar locations to the one you left behind. Planewalking in this way from [[Asteria]] in the Prime Material Plane can land you near a proportionally well-populated city in the [[Boneyard]]. There is no relationship between one's 3-dimensional position in one plane to the other. Planewalking into the Prime Material Plane from a well-populated city in the Boneyard can land you near Asteria, or [[Dawnguard]], with equal odds.
+## Planes ordered by stellar depth
+Stellar depth is a relational value. The following list compares each plane's stellar depth against the [[Maelström]], going from planes that are the closest to furthest:
+- [[Celestia]] (thought to be inside the Maelström)
+- [[Maelström]]
+- ([[Realm of Chaos]])
+- The elemental planes, with similar depth:
+	- [[Plane of Flame|The Plane of Flame]]
+	- [[Plane of Metal|The Plane of Metal]]
+	- [[Plane of Earth|The Plane of Earth]]
+	- [[Plane of Wood|The Plane of Wood]]
+	- [[Plane of Water|The Plane of Water]]
+	- [[Plane of Air|The Plane of Air]]
+- [[Prime Material Plane|The Prime Material Plane]] ([[Dweomerheart]])
+- ([[Shadowfell]])
+- [[Boneyard|The Boneyard]]
+- The axes of ordering, with similar depth:
+	- The Plane of Law
+	- The Plane of Chaos
+	- The Plane of Light
+	- The Plane of Dark
+- [[Alethia]]
+- [[Void|The Void]]
+## Notable connections between planes
+It's possible to physically travel between certain planes, just by walking or climbing. The follow list compiles a few notable connections between the planes:
+- The Maelström swirls endlessly beneath the Realm of Chaos;
+- Rivers of molten metal flow from the Plane of Flame into the Plane of Metal;
+- Trees from the Plane of Wood root in the Plane of Earth;
+- "Sea level" marks the boundary between the Plane of Water and the Plane of Air;
+- One can fall down a rabbit hole in the Prime Material Plane into the Boneyard;
+- The rivers Acheron and Cocytus flow from the Boneyard into Alethia;
+- The river Phlegethon flows from beneath the Palace of the Dead into Maelström.

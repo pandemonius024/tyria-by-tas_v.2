@@ -50,4 +50,5 @@ The Age of Enthronement is marked by the ascension of Qatar Altan to god of the 
 - 633, late Vivici: the Solstice completes, and the Prime Material Plane is repaired;
 - 633 AS, early Lurici: Qatar issues the Lightbearer decree, Al'Nuwr founded;
 - 639 AS, Torentia sinks Wraeclast, plugs Kitava with a spout from the Plane of Water;
+- 641 AS, first Lunaro (Sunday) of Azmeri (July): King Radovan dies;
 - 673 AS, Atziri: Axis invades F'mdell, AFTERSHOCK intervenes;
