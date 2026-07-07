@@ -7,5 +7,3 @@ Originally purpose-built for war, all warforged must confront this reality, one 
 
 > *"...truly remarkable. In all my years, I would've never sought to believe that the automata of yore could be replicated with steel and fire. It appears [...] these are destined for greatness."*
 > *- Xandra*
-## Notable Warforged
-- [[JACKAL]], a system of 3 consciousnesses crammed into a single warforged frame. JACKAL's combative abilities changed, depending on which consciousness was in charge.

@@ -2,9 +2,9 @@
 tags:
   - SOULREND
 ---
-Chaos is the name of the nebulous force of chance, born from the [[Realm of Chaos]].
+Chaos is the name of the nebulous force of chance, borne from the [[Maelström]]. Chaos is the motivating force behind the evolution of flora and fauna, as well as the evolution of might and magic.
 ## History
-At the dawn of life in the [[Prime Material Plane]], small micro organisms flourished. These single celled organisms were happy to swim and reproduce in those warm, nascent seas -- until Chaos appeared before them. Unhappy with their unchanging lives, Chaos spurred on aberrations in those single celled organisms' DNA. Thus began evolution.
+At the dawn of life in the [[Prime Material Plane]], small micro organisms flourished. These single celled organisms were happy to swim and reproduce in those warm, nascent seas -- until Chaos appeared before them. Chaos, unhappy with their unchanging lives, spurred on aberrations in those single celled organisms' DNA. Thus began the evolution.
 
 In the Eclipsed timeline, at some point after the divergence of the timelines, it became clear that the Material Plane was heading towards a cold, dark era. Unhappy with the stagnation that cold period represented, Chaos harnessed [[Signus]] as a puppet. Chaos drove Signus -- rather improbabilistically -- to try and dominate the [[Material Plane]].
 

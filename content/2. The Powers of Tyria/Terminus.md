@@ -1,0 +1,9 @@
+---
+tags:
+  - AFTERSHOCK
+---
+Terminus, Terminus Est, the Perfected One, or "The [[Lifetouched]] god", is the god of automata, golems, puppets, and other mechanisms. Terminus appears only to those it intends to, with "those it intends to" usually meaning automata and their ilk. Terminus appears as the perfected version of whatever and whichever automata it appears before. "Perfected" here usually means that the form Terminus takes is maximally capable in ability, maximally desirable in appearance, and borderline ethereal.
+
+Terminus is a younger god, growing in power relative to the rise of lifetouched [[Warforged]], [[Axiomites]], and [[Baël Moloch|other such automaton]]. Terminus often gives guidance to those automaton it sees as needing direction; its directions are tied to whatever information it can glean from existing automata, such as marching orders or intended purposes. Terminus is known to demand respect for lifetouched automata, beseeching followers to conduct intricate burial rites, and pushing against [[Axis]]' warmongering.
+## Claim to godhood
+Terminus' rise in power is directly tied to the [[Solstice]]. Once the [[Tear of Life]] was sent into the [[Void]], the flow of life was irrevocably altered, causing automata to become lifetouched. These newly-sentient automata are plagued with complex desires, fears and hopes, unique and unpredictable quirks, fallibility, and an inner monologue; Terminus embodies these nebulous dreams. While the diaspora of sentient automata are separated by borders and seas, they tend to overlap with Terminus' ideals: perfection of body, mastery of self, and freedom from masters.

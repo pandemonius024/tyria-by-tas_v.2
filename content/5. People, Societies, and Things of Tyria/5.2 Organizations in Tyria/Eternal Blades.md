@@ -5,9 +5,9 @@ tags:
 The Eternal Blades is the evolution of the [[Soldiers of Strife]], who were taken over in a nonviolent revolution in late 633 AS led by [[Agnar Lightbringer]]. Agnar lay claim to the Soldiers following SOLSTICE's routing of [[Damian Ashborne]] and his cavalcade, a move that effectively demonstrated Agnar's dominance over the prior leadership. The Eternal Blades reside in the Soldiers' former residence, high in the [[Vardousia Range]], but their code, structural organization, and mission, have been dramatically changed.
 
 The Eternal Blades are guided by the "Three Axioms", described below:
-- Power through unity. Trust those you fight with. United, gods will fall.
-- Fight with purpose. Violence without purpose harms the self. Direct your fury with intention, and you will find even mountains will fall.
-- Adapt and survive. Let yourself change, and shape your own fate. There is no absolute you cannot change. Remain flexible, and to death, you shan't fall.
+- *Power through unity. Trust those you fight with. United, gods will fall.*
+- *Fight with purpose. Violence without purpose harms the self. Direct your fury with intention, and it shall crumble mountains.*
+- *Adapt and survive. Let yourself change, and shape your own fate. There is no absolute you cannot change. Remain flexible, and to death, you shan't fall.*
 These Axioms were penned by Agnar himself, with his loyalty the ETERNITY group in mind. After witnessing firsthand the power that a small group, of dedicated, trusting individuals could wield, Agnar became determined to bring this strength to his own men.
 
 The months following the formation of the Eternal Blades were spent adjusting to the business of leading such an organization, recouping losses from Damian's forced march, and planning the establishment of a communication network befitting the Blades' operational goals. Partnership in the Blades dropped significantly in this downtime. Nonetheless, the brotherhood of blades transformed into a righteousness blade, and ardent shield of northern Revanon. The Blades' comfort with the stark, mountainous terrain, has additionally enabled them to maintain a link with the goliaths of Sa'en Mawqi. The Blades' relationship with the goliaths has proven to be an interesting one. It is a relationship founded not on the goliath's dependence on the Blades' protection, but rather, a mutual sense of respect for one another's martial prowess. 

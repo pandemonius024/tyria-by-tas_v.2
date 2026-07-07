@@ -4,7 +4,7 @@ tags:
 ---
 Chrysant Estera is a Vinovian warlord who invested heavily into his own cloning. After learning about [[Tangmazu, the trickster|a legendary sorcerer]]'s cloning experiments at [[Lex Proxima]], Chrysant pursued cloning projects of his own to use as decoys and trusted agents. Chrysant's ambitions were rewarded with numerous failures and letdowns. [[Callian Estera]] is one of those failures.
 ## History
-Following the chaos wrought by the Solstice, the warlord Chrysant Estera seized control of [[Ipomoea]], a small village in the [[Ipomoea Canyon]] in western [[Vinovia]]. By Vitali of 634 AS, he had repurposed Ipomoea into a base for conducting raids throughout the region.
+Following the chaos wrought by the Solstice, the warlord Chrysant Estera seized control of [[Ipomoea]], a small village in the [[Ipomoea Canyon]] in western [[Vinovia]]. By Vitali (June) of 634 AS, he had repurposed Ipomoea into a base for conducting raids throughout the region.
 
 For his ambitious expansionist move, Chrysant was rewarded with an attempt on his life by a fellow warlord, the Wraeclastian [[Eliza Khione|Alasia Silvermoon]]. In 636 AS, Alasia used her arcane prowess to attempt and ambush on Chrysant, which he survived.
 

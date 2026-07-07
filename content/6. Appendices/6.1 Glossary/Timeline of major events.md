@@ -19,7 +19,7 @@ The Age of Serpents is the earliest period of time for which any physical record
 - Early reptiles leave the Unending Sea, assumed to have spread to every continent;
 - Serpentfolk, the first of the animalfolk, fashion the first societies;
 - A meteor impacts Tyria, ending the Age of Serpents;
-	- Of note, the crater that was formed by this meteor is the crater Hasha occupies.
+	- This meteor's crater is the crater Hasha occupies.
 - Carpets of ash covers the land, soot-filled rain pollutes any potential agriculture.
 ### Age of Division (~7,000 - 3,501 BS)
 The Age of Division is marked by the presence of the first humanoids and their societies. Fossil records suggest that all humanoids have a singular ancestor, spawned from an unknown, likely dominant animalfolk in Revanon.
@@ -44,11 +44,11 @@ The Age of Destiny is marked by the plane-dividing Shattering, and ended by the 
 - 621 AS: Kalarel, the Vile begins working towards releasing Kitava, REAVE intervenes;
 - 622 AS: King Radovan shows illness, BANE attempt to crown the next ruler of Asteria;
 - 626 AS: Kalarel, the Vile is successful at releasing Kitava;
-- 633 AS, early Vivici: Anton Essa meets the ETERNITY party for the first time; 
+- 633 AS, early Vivici (March): Anton Essa meets the ETERNITY party for the first time; 
 ### Age of Enthronement (633 AS - present)
 The Age of Enthronement is marked by the ascension of Qatar Altan to god of the Light, and the Solstice that reformed the planes. It continues till present day.
-- 633, late Vivici: the Solstice completes, and the Prime Material Plane is repaired;
-- 633 AS, early Lurici: Qatar issues the Lightbearer decree, Al'Nuwr founded;
+- 633, late Vivici (March): the Solstice completes, and the Prime Material Plane is repaired;
+- 633 AS, early Lurici (April): Qatar issues the Lightbearer decree, Al'Nuwr founded;
 - 639 AS, Torentia sinks Wraeclast, plugs Kitava with a spout from the Plane of Water;
 - 641 AS, first Lunaro (Sunday) of Azmeri (July): King Radovan dies;
-- 673 AS, Atziri: Axis invades F'mdell, AFTERSHOCK intervenes;
+- 673 AS, Atziri (February): Axis invades F'mdell, AFTERSHOCK intervenes;

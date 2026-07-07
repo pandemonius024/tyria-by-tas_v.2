@@ -12,4 +12,4 @@ In 664 AS, Callian left Ipomoea after Chrysant ordered any and all remaining clo
 
 In 669 AS, Rea finds and contacts Callian for a final favor. Callian was led to believe that this favor would be a simple lift, but ultimately resulted in Callian assassinating the Asterian envoy to Ipomoea. Callian fled.
 
-In 671 AS, Callian met [[Baël Moloch]] in [[Kilhan]]; in Caspiri of 672 AS, Callian met [[Kendal]] in [[Agrizi]]. 
+In 671 AS, Callian met [[Baël Moloch]] in [[Kilhan]]; in Caspiri (November) of 672 AS, Callian met [[Kendal]] in [[Agrizi]]. 

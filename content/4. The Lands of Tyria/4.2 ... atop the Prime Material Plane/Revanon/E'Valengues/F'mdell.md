@@ -2,14 +2,19 @@
 tags:
   - ETERNITY
   - Dreamwalker
+  - AFTERSHOCK
   - WIP
 ---
-F'mdell is a border city belonging to the elves, marking the divide between the humans' territory in Metrica Province, and the elves' territory in [[E'Valengues]]. F'mdell is also a port, allowing the elves access to the worlds' goods, most notably of which being [[Bastilite]] coming in from Basti. F'mdell was the location of an assault directed by Tangmazu, the trickster under the guise of Dimitri, in a coordinated attempt with Pharasma, the inevitable to secure the Tear of Time and Tear of Space. While the city survived the carnage leveled by this encounter, the recency and terror that it wrought has spurred isolationist sentiments from the municipality.
-
-Tangmazu's assault on SOLSTICE was three-fold: an army of cheap puppets were covered with Tangmazu's illusion to slow the party down; 2 iron-wrought Nasurgeth, were targeted at the Dreamwalkers; and Pharasma, under illusion as Lunaris, sent Graviar and a party from the Soldiers of Strife directly to the Dreamwalkers. The citizenry of F'mdell witnessed the glow of the moon, and subsequent assault of the clones, and took it to be the work of Lunaris on their shores. This narrative was propagated, in no small part, thanks to Tangmazu's tongue flitting on the streets. A large number of F'mdellians, however, witnessed Qatar Altan's Rayquaza with SOLSTICE flying to meet the moon, turning the conversation towards the utility of non-elves.
-
-F'mdell's debates about protections from vs. appeasement to the gods, and the reconsideration of the elvish-human divide, bloomed into a conversation about the utility of man. Some view the carnage wrought on their shores to be the result of foreign actors using their homes as the backdrop to their violence; others see SOLSTICE's response to be emblematic of the usefulness of foreigners, and later, the Light; others still rallied for an exploration into the area where "Lunaris looked into the sea", claiming there must be something of great import.
-
-*Note: While there is "something of great import" at that spot, the citizens of F'mdell believe it to be a holy site, like a flooded church, or some kind of sacred fishing hole. Not the location of the broken shards of Lunaris.*
+F'mdell is an elven city marking the border between [[Asteria]] and [[Axis]]. 
+## Composition
+F'mdell was founded by [[Elves|Wood Elves]] emigrating from [[Tyria's Root]] following an ideological clash concerning iron working and its place in elven society. Being positioned between Tyria's Root and the city formerly known as [[E'Lenora]], F'mdellians hold a proportionally middling attitude about iron's place in their society: it is a tool to be used. Following the failed Axiomite invasion of F'mdell, F'mdell is now a midpoint between northern [[Revanon]]'s organic-purity, and southern Revanon's Axiomatic purity. A conclave of refugee [[Lifetouched]] [[Axiomites]] stands in the south-eastern corner of the city, in what was formerly the Maker's Quarter.
 ## History
-Following the Solstice, F'mdell would draw inwards by necessity, locking down any trade or transit between elven and human settlements, exasperating the tensions between the two ancestries. Many a F'mdellian believe the Solstice to be the direct work of what happened on their shores just a week before its onset. F'mdell responded to the threats from the Shadowfell by continuing to bicker about their borders, with one camp pushing for the enlistment of human troops, and another camp pushing for the complete isolation of F'mdell.
+In 163 AS, the land that would come to be known as F'mdell was settled, functioning as a pitstop for emigrants to E'Lenora.
+
+In 180 AS, F'mdell is founded.
+
+In 633 AS, mid-Vivici (March), [[Tangmazu, the trickster]] sent a horde of illusory puppets to intercept the Dreamwalkers, who were en route to SOLSTICE with the [[Tear of Time]]. SOLSTICE flew through F'mdell, drawing the puppet horde out of F'mdell. [[Alurika Reyfina]]'s father later wove this scene into a tapestry, recalling SOLSTICE's focus on the sea, and the horde's focus on SOLSTICE. The tapestry is still hanging in the Thorny Rose.
+
+Following the [[Solstice]], F'mdellians limited their trade and became increasingly fearful of outsiders. When F'mdellians became armed against the Shadowfell and learned to stand tall without Asterian journeymen, they warmed up to the idea of reconnecting with northern Revanon -- on their own terms.
+
+In 673 AS, Atziri (February), F'mdell was invaded by Axis. F'mdell repelled this invasion with critical aid from AFTERSHOCK, transforming the city into a refugee haven for Lifetouched Axiomites. This victory was not without its losses. Over 40 F'mdellians have been kidnapped, 712 freedom fighters were slain, and innumerable injury and collateral damage was sustained. 
