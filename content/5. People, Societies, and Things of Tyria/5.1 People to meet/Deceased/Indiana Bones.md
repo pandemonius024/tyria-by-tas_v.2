@@ -3,7 +3,7 @@ tags:
   - ETERNITY
 ---
 An archaeologist-turned-skeleton, Indiana Bones was a scholar of Vinovian origin, whose career was cut short when he was skinned and planted into the earth by a Megaprimatus of [[Dino Park]]. Upon the party of ETERNITY digging up Bones, he simply dismissed his skeletal nature, and joined them.
-
+## History
 In life, Bones was friends with Nathan Drake and Laura Croft, both famed archaeologists in their rights. 
 
 In the course of adventuring across Tyria in the Eclipsed timeline, Nathan Drake solves a puzzle door with the help of the party, and becomes a skeleton as well. In the Solstice timeline, Nathan Drake ends up never solving the puzzle, and continues traveling the land as a fleshy being.

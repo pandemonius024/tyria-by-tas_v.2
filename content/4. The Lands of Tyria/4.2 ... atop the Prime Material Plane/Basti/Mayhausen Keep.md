@@ -3,7 +3,13 @@ tags:
   - Dreamwalker
   - ETERNITY
 ---
-Mayhausen Keep (my-house-en) is a castle town built within [[Teardrop Lake]]. The Keep's creation was spearheaded by Sondra of the Moon in the early 300s, who cleared out the area as a pivotal claim in the holy wars of Basti. Mayhausen Keep's storied purpose as a bastion to believers in [[Lunaris]]' superiority is detailed through salvaged memos and paintings strewn about the castle's walls. While the blood of battles ages past have since dried on the castle's foundations, Mayhausen Keep continues to be an epicenter of religious zealotry, and theistic redoubt.
+Mayhausen Keep (MY-hauz-en) is a castle town built within [[Teardrop Lake]]. 
+## Founding
+The Keep's creation was spearheaded by Sondra of the Moon in the early 300s, who cleared out the area as a pivotal claim in the holy wars of Basti. Mayhausen Keep's storied purpose as a bastion to believers in [[Lunaris]]' superiority is detailed through salvaged memos and paintings strewn about the castle's walls. 
+
+While the blood of battles ages past have since dried on the castle's foundations, Mayhausen Keep continues to be an epicenter of religious zealotry, and theistic redoubt.
+## Structure and layout
+Mayhausen Keep consists of two parts: a tightly packed, maze of a town, and a massive cathedral and keep at the center. The town spills outwards from the cathedral, spreading just shy of the lake's edge. The cathedral stands far above the surrounding town, its keep guarding it from both townsfolk and invaders alike.
 ## History
 During the Dreamwalker campaign, Mayhausen Keep operated under a lordship, and was ruled by King Hall and his lineage. Prior to the Dreamwalker campaign, Rox infiltrated and mind-controlled the King, enabling him to operate without intervention from the King's arm.
 
@@ -15,4 +21,6 @@ In the Solsticed timeline, the Dreamwalkers of Basti resisted the forces that wo
 
 Once Rox fell, the curse and hold that he had on King Hall fell, and brought the mad king came to his senses. At the same time, the escape of the Dreamwalkers inspired the denizens of the Keep to rise against the tyrannical rule that Rox imposed via King Hall. This culminated in a series of violent uprisings which cost ~10% of the souls on either side of the rule, ending after months of battle, in the year 634. The result, was the dispensation of King Hall, the removal of his political tools, his loyal servants, his knights, all rejected from the Keep. 
 
-Its citizens managed to sustain themselves through continued trade and the motions of life, and splintered into 3 distinct factions. In one gathering, diehard believers of Tangmazu, the trickster's lie about Lunaris, who saw her imminent victory in her battle with Solaris, believe that the Dreamwalkers' excursion from Mayhausen was a sin representing the people of Basti, for which all must pay. In another gathering, a Light-worshipping branch of Mayhausen formed consisting of those who believe Mania's heresy concerning the Dancing Sisters. In the final gathering, an agnostic sect of Mayhausen grew, consisting of those who are done with the whole thing, and want to be left alone.
+Its citizens managed to sustain themselves through continued trade and the motions of life, and splintered into 3 distinct factions. In one gathering, diehard believers of Tangmazu, the trickster's lie about Lunaris, who saw her imminent victory in her battle with Solaris, believe that the Dreamwalkers' excursion from Mayhausen was a sin representing the people of Basti, for which all must pay. In another gathering, a [[Light]]-worshipping branch of Mayhausen formed consisting of those who believe Mania's heresy concerning the Dancing Sisters. In the final gathering, an agnostic sect of Mayhausen grew, consisting of those who are done with the whole thing, and want to be left alone.
+
+Following the [[Solstice]], Mayhausen fell deeply into devotion to the Light. Fanatics of Lunaris, disenchanted with the goddesses, believed that it was a holy light that was communing with them all along. Once Shadowfallen beasts began swimming onto shore, members of the fledgling [[Al'Nuwr]] began beating them back, growing Mayhausen's appreciation of the Light.
