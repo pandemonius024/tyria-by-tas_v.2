@@ -8,8 +8,8 @@ Tyria's prehistoric events are widely spread, and individual events can take pla
 - Tyria appears, and fashions the Divinarius;
 - The Divinarius die, and create barren, dry earth;
 - Tyria weeps, and sheds the Tears of Tyria; 
-- The Tear of Life lands upon the clay corpse of the Divinarius, sprouts life;
-- Lunaris and Solaris leapt from the grove that the Tear of Life created, day and night cycle begins;
+- The Tear of Life lands upon Rah's corpse, sprouts life;
+- Lunaris and Solaris leapt from the grove that the Tear of Life created, day and mnight cycle begins;
 - Tyria cools, and moisture begins accumulating on the surface of the Divinarius;
 - Torentia appears, flooding the cracks and valleys in the Divinarius' corpses;
 - Etris appears, magnifying the waves and spreading the seeds of life;

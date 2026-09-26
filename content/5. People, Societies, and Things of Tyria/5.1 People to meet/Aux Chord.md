@@ -6,4 +6,4 @@ A man of many talents, Aux Chord is the greatest hero that [[Solva]] had ever se
 ## History
 In the ETERNITY campaign, Aux Chord made an appearance before ETERNITY using the Font. The Font took on the form of a desert oasis, and gave the party respite from a sandstorm that they were weathering.
 
-After learning that the plot to resurrect [[Kitava, the insatiable]] was underway, Aux Chord made for [[Wraeclast]] to attempt to face the ravenous god. Tragically, Aux Chord found himself unable to prevent the return of Kitava, and was forced to back down from his noble goal. Aux Chord has continued on his path of heroism ever since.
+After learning that the plot to resurrect [[Kitava, the drowned]] was underway, Aux Chord made for [[Wraeclast]] to attempt to face the ravenous god. Tragically, Aux Chord found himself unable to prevent the return of Kitava, and was forced to back down from his noble goal. Aux Chord has continued on his path of heroism ever since.

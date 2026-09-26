@@ -8,7 +8,7 @@ Following a high profile assassination of Fiona Winzer, an Asterian diplomat to 
 
 verbatim:
 
-Erryn was born (gasp), gifted with unique powers, his parents sent him to the temple on Core Scant. For years he trained under masters like Eliza to develop and control his powers, using them to help a world in crisis. Erryn traveled the world with his master, helping villages settle disputes, prevent wars, provide much needed supplies, and guiding leaders toward peace. 
+Erryn was born (gasp), gifted with unique powers, his parents sent him to the temple on Cor Scant. For years he trained under masters like Eliza to develop and control his powers, using them to help a world in crisis. Erryn traveled the world with his master, helping villages settle disputes, prevent wars, provide much needed supplies, and guiding leaders toward peace. 
 
 On one of these missions, Erryn and his master were sent to settle a dispute between two aristocrats. While Erryn was walking around the building, he noticed a thief (totally not Callian) trying to sneak through the shadows. He chased after them, ending up in a room with a servant present. Erryn, feeling angry and annoyed over this goose chase, reaches out with his hand and (force) chokes the thief. Thinking quickly, the thief grabs one of their daggers and throws it at the servant, killing them. Erryn lets go, and as the thief quickly escapes through the window. The guards and his master walk in, seeing the servant's lifeless body on the floor and an angry young boy with his hand extended towards the servant. 
 
